@@ -1,2 +1,12 @@
-# lenta
-Custom feed for your antidoom scrolling days
+# Лента
+
+Личен канал за скролване: бранд и дизайн, пари и пазари, фотография, плюс карти за периодите в изкуството.
+
+## Пускане
+1. `node scripts/fetch-feeds.mjs` сваля новините в `data/feed.js`. Нужни са Node 18+ и curl.
+2. Превод и резюме на български автоматично: `ANTHROPIC_API_KEY=... node scripts/fetch-feeds.mjs`.
+3. `npx serve .` локално, или качи папката на Cloudflare Pages / Netlify / GitHub Pages.
+4. Отвори адреса на телефона, "Добави към началния екран".
+
+## Автоматично обновяване
+GitHub Action на всеки 3 часа пуска скрипта и публикува. Добавяне на източник: един ред в `scripts/sources.json`.

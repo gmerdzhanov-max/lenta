@@ -1,0 +1,12 @@
+[
+ {"topic":"brand","name":"Logo Design Love","url":"https://www.logodesignlove.com/feed"},
+ {"topic":"brand","name":"Print Magazine","url":"https://www.printmag.com/feed/"},
+ {"topic":"brand","name":"Branding Magazine","url":"https://brandingmag.com/feed/"},
+ {"topic":"money","name":"The Economist","url":"https://www.economist.com/finance-and-economics/rss.xml"},
+ {"topic":"money","name":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml"},
+ {"topic":"money","name":"CNBC Markets","url":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664","exclude":"biggest moves"},
+ {"topic":"money","name":"Investing.com","url":"https://www.investing.com/rss/news.rss","exclude":"plane|drone|fighter|clinical|Netanyahu|Trump|Midterms"},
+ {"topic":"photo","name":"PetaPixel","url":"https://petapixel.com/feed/"},
+ {"topic":"photo","name":"Fstoppers","url":"https://fstoppers.com/rss.xml","exclude":"review|lens|camera"},
+ {"topic":"photo","name":"Digital Photography School","url":"https://digital-photography-school.com/feed/","exclude":"announces|introducing|expands|rethinks|hitch"}
+]
