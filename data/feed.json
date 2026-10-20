@@ -1,5 +1,159 @@
 [
  {
+  "id": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Honeywell Aerospace sees business aviation growth on rising aircraft use",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/honeywell-aerospace-sees-business-aviation-growth-on-rising-aircraft-use-4958553",
+  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J005_L.jpg",
+  "date": "2026-10-20T00:12:29.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/waymo-plans-to-quintuple-fleet-to-20000-semafor-reports-4958528",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Waymo plans to quintuple fleet to 20,000, Semafor reports",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/waymo-plans-to-quintuple-fleet-to-20000-semafor-reports-4958528",
+  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9I20R_L.jpg",
+  "date": "2026-10-20T00:12:18.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "AGNC Investment earnings missed, revenue topped estimates",
+  "snippet": "",
+  "link": "https://www.investing.com/news/earnings/agnc-investment-earnings-missed-revenue-topped-estimates-4958555",
+  "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+  "date": "2026-10-20T00:11:26.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Cathie Wood’s ARK sells Palantir and Shopify stock, buys CoreWeave",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-palantir-and-shopify-stock-buys-coreweave-93CH-4958554",
+  "image": "https://content-media.investing.com/news/LYNXMPEM4P18K_1200_L.jpg",
+  "date": "2026-10-20T00:11:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/whirlpool-appoints-former-vanguard-executive-to-board-93CH-4958541",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Whirlpool appoints former Vanguard executive to board",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/whirlpool-appoints-former-vanguard-executive-to-board-93CH-4958541",
+  "image": "https://content-media.investing.com/news/LYNXMPEB220HL_M.jpg",
+  "date": "2026-10-19T23:48:29.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/disney-evp-brent-woodford-sells-318958-in-company-stock-93CH-4958539",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Disney EVP Brent Woodford sells $318,958 in company stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/disney-evp-brent-woodford-sells-318958-in-company-stock-93CH-4958539",
+  "image": "https://content-media.investing.com/news/LYNXMPED771KM_M.jpg",
+  "date": "2026-10-19T23:46:06.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+  "snippet": "",
+  "link": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777",
+  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0RF_L.jpg",
+  "date": "2026-10-19T23:36:43.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/transunion-evp-abdelsadek-sells-64775-in-stock-93CH-4958527",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "TransUnion EVP Abdelsadek sells $64,775 in stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/transunion-evp-abdelsadek-sells-64775-in-stock-93CH-4958527",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+  "date": "2026-10-19T23:36:26.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+  "snippet": "The BBC hears from people who think dating events are better value for money than dating apps.",
+  "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
+  "date": "2026-10-19T23:00:21.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+  "snippet": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+  "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+  "date": "2026-10-19T21:30:06.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+  "snippet": "The Saudi government did not immediately respond to BBC requests for comment.",
+  "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
+  "date": "2026-10-19T21:12:30.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/historical/connecticut-wrote-six-rules-photoshopped-evidence-2004-and-kept-innocent-man-904244?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Connecticut Wrote Six Rules for Photoshopped Evidence in 2004 and Kept an Innocent Man in Prison Anyway",
+  "snippet": "A judge in Hartford wanted to know how the computer had made a set of plaster teeth semi-transparent so they could be laid over an autopsy photograph of a murdered woman's breast. \"Judge, you got me,\" the state's forensic odontologist answered. \"I don't know how they do it, but they do it,\" he said, and then, \"I think we really need an engineer.\" &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/historical/connecticut-wrote-six-rules-photoshopped-evidence-2004-and-kept-innocent-man-904244?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/connecticut-six-rules-for-photoshopped-evidence-supreme-court-building.jpg.webp?itok=5kESkDmb",
+  "date": "2026-10-19T21:03:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/19/one-of-the-last-masters-of-the-platinum-photo-printing-process/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "One of the Last Masters of the Platinum Photo Printing Process",
+  "snippet": "While Cleveland and Ohio are having a moment in the baseball playoffs, a documentary is circulating about hometown photographer Herb Ascherman, whose voluminous archive includes images of nighttime fireworks after a Guardians’ victory. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/19/one-of-the-last-masters-of-the-platinum-photo-printing-process/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/The-Eye-of-Cleveland3.jpg",
+  "date": "2026-10-19T20:54:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/19/elgato-convertible-wave-go-is-a-clip-on-and-handheld-mic-in-one/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Elgato Convertible Wave Go Is a Clip-On and Handheld Mic in One",
+  "snippet": "Elgato, a big name in content creation and streaming, has announced the Wave Go, which it describes as a \"convertible wireless mic.\" [ Read More ]",
+  "link": "https://petapixel.com/2026/10/19/elgato-convertible-wave-go-is-a-clip-on-and-handheld-mic-in-one/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/elgato-wave-go-featured.jpg",
+  "date": "2026-10-19T19:44:10.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://petapixel.com/2026/10/19/this-absurd-adorable-38-1mp-digital-camera-can-be-worn-like-jewelry/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -11,91 +165,25 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/welltower-stock-may-move-26-on-oct-26-earnings-release-93CH-4958153",
+  "id": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Welltower stock may move 2.6% on Oct. 26 earnings release",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/welltower-stock-may-move-26-on-oct-26-earnings-release-93CH-4958153",
-  "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-  "date": "2026-10-19T18:33:58.000Z",
+  "source": "BBC Business",
+  "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+  "snippet": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+  "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
+  "date": "2026-10-19T18:21:54.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-2562-93CH-4958152",
+  "id": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Hub Group stock hits 52-week low at $25.62",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/hub-group-stock-hits-52week-low-at-2562-93CH-4958152",
-  "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-  "date": "2026-10-19T18:33:37.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-stake-to-new-public-benefit-fund-musk-argues-for-direct-share-donations-to-kids-4958151",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Anthropic commits 5% stake to new ’public benefit fund’, Musk argues for direct share donations to kids",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-stake-to-new-public-benefit-fund-musk-argues-for-direct-share-donations-to-kids-4958151",
-  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0YO_L.jpg",
-  "date": "2026-10-19T18:31:14.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/alexandria-real-estate-stock-may-move-34-on-earnings-report-93CH-4958150",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Alexandria Real Estate stock may move 3.4% on earnings report",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/alexandria-real-estate-stock-may-move-34-on-earnings-report-93CH-4958150",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-  "date": "2026-10-19T18:30:55.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Nasdaq climbs as chip and AI-linked stocks bounce back",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-4956777",
-  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9I0RF_L.jpg",
-  "date": "2026-10-19T18:30:33.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/amkor-technology-options-indicate-12-move-on-oct-26-earnings-93CH-4958145",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Amkor Technology options indicate 12% move on Oct. 26 earnings",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/amkor-technology-options-indicate-12-move-on-oct-26-earnings-93CH-4958145",
-  "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-  "date": "2026-10-19T18:29:17.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/brown--brown-shares-may-move-18-on-earnings-release-93CH-4958144",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Brown & Brown shares may move 1.8% on earnings release",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/brown--brown-shares-may-move-18-on-earnings-release-93CH-4958144",
-  "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-  "date": "2026-10-19T18:28:16.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/rambus-stock-may-move-14-on-earnings-release-next-week-93CH-4958143",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Rambus stock may move 14% on earnings release next week",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/rambus-stock-may-move-14-on-earnings-release-next-week-93CH-4958143",
-  "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-  "date": "2026-10-19T18:27:30.000Z",
+  "source": "The Economist",
+  "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+  "snippet": "Japan wants its pension fund and households to buy more government debt",
+  "link": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+  "image": "",
+  "date": "2026-10-19T18:11:37.000Z",
   "bg": ""
  },
  {
@@ -220,17 +308,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "AI-Edited Photos Can Lead People to Form False Memories",
-  "snippet": "AI-edited photographs and videos create false memories in people's brains and make them even more confident about the wrong version of the event. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories.jpg",
-  "date": "2026-10-19T12:41:31.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -239,39 +316,6 @@
   "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
   "image": "",
   "date": "2026-10-19T12:34:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-  "snippet": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-  "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg",
-  "date": "2026-10-19T12:16:32.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/19/dash-cam-captures-bison-ramming-truck-in-the-dead-of-night/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Dash Cam Captures Bison Ramming Truck in the Dead of Night",
-  "snippet": "A driver traveling through Yellowstone National Park in the dead of night had a close encounter with a bison when the animal charged his pickup truck and struck it. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/19/dash-cam-captures-bison-ramming-truck-in-the-dead-of-night/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Bison-Charges-Truck1.jpg",
-  "date": "2026-10-19T11:16:54.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "People playing loud music on buses could face £100 fine",
-  "snippet": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-  "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/9c756160-cb95-11f1-a64c-550be9e3c66b.jpg",
-  "date": "2026-10-19T09:49:58.000Z",
   "bg": ""
  },
  {
@@ -294,28 +338,6 @@
   "link": "https://fstoppers.com/education/how-find-compositions-when-location-overwhelms-905101?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_72.jpg.webp?itok=WV6po2si",
   "date": "2026-10-19T09:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "China's growth accelerates as AI boom helps boost exports",
-  "snippet": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-  "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
-  "date": "2026-10-19T06:08:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Don't fall for this - how to protect yourself from AI scams",
-  "snippet": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-  "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
-  "date": "2026-10-18T23:24:59.000Z",
   "bg": ""
  },
  {
@@ -361,17 +383,6 @@
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_66.jpg.webp?itok=eYlESV4R",
   "date": "2026-10-18T11:03:01.000Z",
   "bg": ""
- },
- {
-  "id": "https://fstoppers.com/landscapes/still-need-one-career-defining-photo-905088?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Do You Still Need One Career-Defining Photo?",
-  "snippet": "For decades, a photography career seemed to hinge on one or two pictures, the frames that appeared in every magazine profile and forum thread until they became shorthand for the person who made them. If you've ever wondered whether your own work needs that kind of breakout image, your answer affects how you shoot, how you edit, and how you share everything else. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/landscapes/still-need-one-career-defining-photo-905088?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_65.jpg.webp?itok=9K3AISc7",
-  "date": "2026-10-18T09:03:01.000Z",
-  "bg": "Нужна ли е още една емблематична снимка, за да изградиш кариера, или времената са се променили?"
  },
  {
   "id": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
@@ -525,17 +536,6 @@
   "link": "https://digital-photography-school.com/news-national-indigenous-art-prize-puts-lismore-on-australias-cultural-map/",
   "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2026/10/MA-25-402_LR-cmyk-Ruby-Benjamin_small.jpg?resize=1000%2C1253&ssl=1",
   "date": "2026-10-09T03:51:19.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
-  "topic": "money",
-  "source": "The Economist",
-  "title": "Governments are mishandling the affordability crisis",
-  "snippet": "They should lift incomes, not suppress prices",
-  "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
-  "image": "",
-  "date": "2026-10-08T09:26:41.000Z",
   "bg": ""
  },
  {
