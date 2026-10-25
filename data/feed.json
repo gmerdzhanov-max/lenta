@@ -1,5 +1,49 @@
 [
  {
+  "id": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0KK_L.jpg",
+  "date": "2026-10-25T20:06:24.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Britain will not join Canada’s defence bank, source says",
+  "snippet": "",
+  "link": "https://www.investing.com/news/economy-news/britain-will-not-join-canadas-defence-bank-source-says-4971243",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0JH_L.jpg",
+  "date": "2026-10-25T19:24:28.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "U.S, Canada “very close” to trade deal, White House’s Hassett says",
+  "snippet": "",
+  "link": "https://www.investing.com/news/economy-news/us-canada-very-close-to-trade-deal-white-houses-hassett-says-4971239",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM1H160_1200_L.jpg",
+  "date": "2026-10-25T18:59:15.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEL4K0QN_L.jpg",
+  "date": "2026-10-25T17:48:15.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-dr-reddys-stock-rating-on-margin-outlook-93CH-4971223",
   "topic": "money",
   "source": "Investing.com",
@@ -66,17 +110,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Qatari mediators in Tehran for U.S.-coordinated effort to ease tensions",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006",
-  "image": "https://content-media.investing.com/news/LYNXMPEE7514O_M.jpg",
-  "date": "2026-10-25T13:56:21.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.investing.com/news/insider-trading-news/medpace-ceo-august-troendle-sells-159-million-in-stock-93CH-4971193",
   "topic": "money",
   "source": "Investing.com",
@@ -88,17 +121,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "ArriVent reports phase 1 data for cancer drug ARR-217",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/arrivent-reports-phase-1-data-for-cancer-drug-arr217-93CH-4971187",
-  "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-  "date": "2026-10-25T13:04:42.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/education/stop-picking-shutter-speeds-random-905174?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -107,28 +129,6 @@
   "link": "https://fstoppers.com/education/stop-picking-shutter-speeds-random-905174?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_95.jpg.webp?itok=474yVWkr",
   "date": "2026-10-25T13:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings flood, Fed meeting will test rickety AI market rally",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally-4971185",
-  "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0S5_L.jpg",
-  "date": "2026-10-25T13:00:24.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
-  "image": "https://content-media.investing.com/news/LYNXNPED9015J_M.jpg",
-  "date": "2026-10-25T12:45:03.000Z",
   "bg": ""
  },
  {
@@ -341,6 +341,17 @@
   "bg": ""
  },
  {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-express-kindness-by-making-a-poster/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Express Kindness by Making a Poster",
+  "snippet": "It's that simple. The post The Daily Heller: Express Kindness by Making a Poster appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-express-kindness-by-making-a-poster/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/FFK_2026-Open-Call-07.png?resize=1000%2C563&quality=80&ssl=1",
+  "date": "2026-10-23T11:00:00.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -360,6 +371,17 @@
   "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
   "image": "",
   "date": "2026-10-22T15:51:39.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/a-happy-book-about-death/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: A Happy Book About Death",
+  "snippet": "'The Magic Box' is both ahead of its time and of its time. The post The Daily Heller: A Happy Book About Death appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/a-happy-book-about-death/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2014/04/2a34d8_fe44cb1ae8514b1293b60a1b1105863dmv2.jpg?resize=492%2C484&quality=89&ssl=1",
+  "date": "2026-10-22T11:00:00.000Z",
   "bg": ""
  },
  {
@@ -407,6 +429,17 @@
   "bg": ""
  },
  {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-peter-de-seve/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Peter de Sève’s Opening Night",
+  "snippet": "This consummate artist takes another well-earned bow. The post The Daily Heller: Peter de Sève’s Opening Night appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-peter-de-seve/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/EasterBunnyandMarchHare.jpg?resize=822%2C1024&quality=89&ssl=1",
+  "date": "2026-10-21T11:00:00.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
   "topic": "money",
   "source": "The Economist",
@@ -415,6 +448,50 @@
   "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
   "image": "",
   "date": "2026-10-20T18:32:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/what-matters/what-matters-to-gil-muinos/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "What Matters to Gil Muińos",
+  "snippet": "Gil Muińos reflects on the joys of fatherhood, the lasting grief of losing his father, and the curiosity and creativity that shape his life, while celebrating the small moments, family connections, and Cuban traditions that mean the most to him. The post What Matters to Gil Muińos appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/what-matters/what-matters-to-gil-muinos/",
+  "image": "",
+  "date": "2026-10-20T15:38:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/book-club/print-book-club-recap-the-art-of-starting-over-with-mirko-ilic/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "PRINT Book Club Recap: The Art of Starting Over with Mirko Ilić",
+  "snippet": "In the latest PRINT Book Club, legendary designer Mirko Ilić discusses how returning to comics during the pandemic inspired a deeply personal exploration of isolation, creativity, and the power of making art in uncertain times. The post PRINT Book Club Recap: The Art of Starting Over with Mirko Ilić appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/book-club/print-book-club-recap-the-art-of-starting-over-with-mirko-ilic/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Group-636-1.png?resize=1000%2C432&quality=80&ssl=1",
+  "date": "2026-10-20T14:49:16.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/designer-interviews/booklook-wearable-book-series/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "Investigating ‘Booklook,’ a Wearable Book Series That Interrogates the Fashion Industry",
+  "snippet": "We chat with the self-proclaimed \"caretaker\" of the Booklook project about her collaborative process in putting the series together, and the message the issues send about the fashion industry. The post Investigating ‘Booklook,’ a Wearable Book Series That Interrogates the Fashion Industry appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/designer-interviews/booklook-wearable-book-series/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/01_Booklook-issue-2.jpg?resize=819%2C1024&quality=89&ssl=1",
+  "date": "2026-10-20T12:42:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-an-israeli-modernist-uncovered/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: An Israeli Modernist Uncovered",
+  "snippet": "It is always a treat to find a forgotten or little-known designer. The post The Daily Heller: An Israeli Modernist Uncovered appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-an-israeli-modernist-uncovered/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/the-estate-1024x599.jpg?resize=1000%2C585&quality=89&ssl=1",
+  "date": "2026-10-20T11:00:00.000Z",
   "bg": ""
  },
  {
@@ -459,6 +536,17 @@
   "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
   "image": "",
   "date": "2026-10-19T16:42:14.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/what-matters/what-matters-to-dustin-black/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "What Matters to Dustin Black",
+  "snippet": "Dustin Black, Chief Creative Officer and Partner at Meerkat, reflects on how curiosity, creative problem-solving and a willingness to embrace the unknown have shaped his career and personal life. He explores the importance of trusting yourself, learning from risks and setbacks, and finding lasting fulfillment in family, collaboration and helping others discover their own creative confidence. The p",
+  "link": "https://www.printmag.com/what-matters/what-matters-to-dustin-black/",
+  "image": "",
+  "date": "2026-10-19T16:05:14.000Z",
   "bg": ""
  },
  {
