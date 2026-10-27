@@ -1,24 +1,112 @@
 [
  {
-  "id": "https://www.investing.com/news/company-news/distribution-solutions-group-completes-gradeeight-acquisition-93CH-4973982",
+  "id": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Distribution Solutions Group completes GradeEight acquisition",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/distribution-solutions-group-completes-gradeeight-acquisition-93CH-4973982",
-  "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg",
-  "date": "2026-10-27T00:04:29.000Z",
+  "source": "BBC Business",
+  "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+  "snippet": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+  "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
+  "date": "2026-10-27T08:53:59.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-buys-nearly-116m-stock-93CH-4973979",
+  "id": "https://www.investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-4974166",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Optimum Communications director Neil Subin buys nearly $1.16m stock",
+  "title": "HSBC shares hit 6-month low as Q3 results miss estimates; announces $1bn buyback",
   "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/optimum-communications-director-neil-subin-buys-nearly-116m-stock-93CH-4973979",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-10-27T00:01:04.000Z",
+  "link": "https://www.investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-4974166",
+  "image": "https://content-media.investing.com/news/LYNXMPED1K063_M.jpg",
+  "date": "2026-10-27T08:53:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/why-is-welltower-stock-rallying-today-93CH-4974487",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Why is Welltower stock rallying today?",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-welltower-stock-rallying-today-93CH-4974487",
+  "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+  "date": "2026-10-27T08:53:17.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-raises-talen-energy-stock-price-target-on-acquisition-benefits-93CH-4974485",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA raises Talen Energy stock price target on acquisition benefits",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-raises-talen-energy-stock-price-target-on-acquisition-benefits-93CH-4974485",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+  "date": "2026-10-27T08:52:57.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-fedex-stock-price-target-on-earnings-outlook-to-359-93CH-4974486",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts FedEx stock price target on earnings outlook to $359",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-fedex-stock-price-target-on-earnings-outlook-to-359-93CH-4974486",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+  "date": "2026-10-27T08:52:57.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-public-service-enterprise-stock-price-target-on-regulatory-focus-93CH-4974484",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts Public Service Enterprise stock price target on regulatory focus",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-public-service-enterprise-stock-price-target-on-regulatory-focus-93CH-4974484",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+  "date": "2026-10-27T08:52:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-owens-corning-stock-price-target-on-weak-shingle-demand-93CH-4974483",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts Owens Corning stock price target on weak shingle demand",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-owens-corning-stock-price-target-on-weak-shingle-demand-93CH-4974483",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+  "date": "2026-10-27T08:52:54.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-flex-stock-price-target-on-valuation-adjustments-93CH-4974482",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts Flex stock price target on valuation adjustments",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-flex-stock-price-target-on-valuation-adjustments-93CH-4974482",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+  "date": "2026-10-27T08:52:51.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-makemytrip-stock-price-target-on-higher-expenses-93CH-4974481",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts MakeMyTrip stock price target on higher expenses",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-makemytrip-stock-price-target-on-higher-expenses-93CH-4974481",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+  "date": "2026-10-27T08:52:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+  "snippet": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+  "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+  "date": "2026-10-27T07:15:08.000Z",
   "bg": ""
  },
  {
@@ -29,84 +117,84 @@
   "snippet": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-10-27T00:01:00.000Z",
+  "date": "2026-10-27T06:48:50.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P1UC_L.jpg",
-  "date": "2026-10-27T00:00:41.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economy-news/analysisin-china-the-ai-bubble-has-already-burst-4972445",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "In China, the AI bubble has already burst",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/analysisin-china-the-ai-bubble-has-already-burst-4972445",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9P106_L.jpg",
-  "date": "2026-10-27T00:00:24.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/sands-china-plans-senior-unsecured-notes-offering-93CH-4973969",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Sands China plans senior unsecured notes offering",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/sands-china-plans-senior-unsecured-notes-offering-93CH-4973969",
-  "image": "https://content-media.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg",
-  "date": "2026-10-26T23:52:33.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-897k-shares-93CH-4973964",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Adaptive Biotechnologies president and COO Julie Rubinstein sells $897k shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/adaptive-biotechnologies-president-and-coo-julie-rubinstein-sells-897k-shares-93CH-4973964",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-  "date": "2026-10-26T23:46:23.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-director-buys-866m-in-shares-93CH-4973963",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Nippon Life, Corebridge Financial director, buys $8.66M in shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-director-buys-866m-in-shares-93CH-4973963",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-  "date": "2026-10-26T23:45:58.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/bkv-corp-senior-vp-hinojosa-sells-103549-in-shares-93CH-4973961",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "BKV Corp senior VP Hinojosa sells $103,549 in shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/bkv-corp-senior-vp-hinojosa-sells-103549-in-shares-93CH-4973961",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-10-26T23:45:54.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-  "snippet": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-  "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
-  "date": "2026-10-26T22:30:02.000Z",
+  "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+  "snippet": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+  "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
+  "date": "2026-10-27T06:33:11.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Donald Trump's biggest economic problem looks strangely familiar",
+  "snippet": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+  "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+  "date": "2026-10-27T06:01:11.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/26/westcott-redesigns-its-rapid-box-switch-softboxes-to-fold-totally-flat/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Westcott Redesigns Its Rapid Box Switch Softboxes to Fold Totally Flat",
+  "snippet": "Westcott has redesigned its Rapid Box Switch Fold-Flat softbox lineup, promising photographers a more portable way to create high-quality light. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/26/westcott-redesigns-its-rapid-box-switch-softboxes-to-fold-totally-flat/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/Westcott-Redesigns-Its-Rapid-Box-Switch-Fold-Flat-Softboxes.jpg",
+  "date": "2026-10-27T04:00:42.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/26/the-instax-mini-evo-2-has-a-bigger-display-and-expanded-field-of-view/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "The Instax Mini Evo 2 Has a Bigger Display and Expanded Field of View",
+  "snippet": "Fujifilm has announced the Instax Mini Evo 2, which upgrades the rear LCD, adds a new \"Expanded View\" framing feature, and introduces an \"Immersive Movie\" option that captures up to four seconds before the photo is taken. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/26/the-instax-mini-evo-2-has-a-bigger-display-and-expanded-field-of-view/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/The-Instax-Mini-Evo-2-Has-a-Bigger-LCD-and-Expanded-Field-of-View.jpg",
+  "date": "2026-10-27T03:41:04.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+  "snippet": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+  "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+  "date": "2026-10-27T01:48:04.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/dr-dori-cut/dr-doris-cut-100-words-no-filler-9/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "Dr. Dori’s Cut: 100 Words. No Filler.",
+  "snippet": "Drawing on her work with AIGA’s Design for Democracy, Dr. Dori Tunstall explores how engaging, user-friendly digital tools can simplify the overwhelming voting process and help voters make more informed choices that reflect their values. The post Dr. Dori’s Cut: 100 Words. No Filler. appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/dr-dori-cut/dr-doris-cut-100-words-no-filler-9/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/LAist-Voter-Game-Plan-1.png?resize=1000%2C542&quality=80&ssl=1",
+  "date": "2026-10-27T00:27:51.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/publication-design/we-now-copy-all-fobs-celebrates-the-charm-and-ridiculousness-of-paper-signage-at-small-businesses/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "‘We Now Copy All Fobs’ Celebrates the Charm and Ridiculousness of Paper Signage at Small Businesses",
+  "snippet": "Samuel Williams has released a zine compilation of the paper signs he's come upon throughout the UK over the last decade. The post ‘We Now Copy All Fobs’ Celebrates the Charm and Ridiculousness of Paper Signage at Small Businesses appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/publication-design/we-now-copy-all-fobs-celebrates-the-charm-and-ridiculousness-of-paper-signage-at-small-businesses/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.17.56-PM-1.png?resize=744%2C1024&quality=80&ssl=1",
+  "date": "2026-10-26T23:36:31.000Z",
   "bg": ""
  },
  {
@@ -118,6 +206,17 @@
   "link": "https://petapixel.com/2026/10/26/instagram-wants-a-piece-of-youtubes-long-form-video-pie/",
   "image": "https://petapixel.com/assets/uploads/2026/10/instagram-features-featured.jpg",
   "date": "2026-10-26T21:40:47.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/portraits/why-passport-photo-rules-are-so-strict-biometric-science-boring-picture-904381?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Why Passport Photo Rules Are So Strict: The Biometric Science of a Boring Picture",
+  "snippet": "Your passport photo got rejected because of a shadow. Not a dramatic one. A soft gradient under your jaw, maybe a quarter-shade darker than your cheek, the kind of thing you would never notice and the clerk who handed the print back probably could not have described either. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/portraits/why-passport-photo-rules-are-so-strict-biometric-science-boring-picture-904381?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/dlib-face-landmark-detection.jpg.webp?itok=ZIooesAw",
+  "date": "2026-10-26T21:03:01.000Z",
   "bg": ""
  },
  {
@@ -151,17 +250,6 @@
   "link": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
   "image": "https://petapixel.com/assets/uploads/2026/10/oppo-find-x10-pro-max-review-featured.jpg",
   "date": "2026-10-26T18:31:47.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-  "snippet": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-  "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-10-26T16:27:17.000Z",
   "bg": ""
  },
  {
@@ -209,28 +297,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/26/elon-musk-has-followed-through-on-his-threat-to-remake-the-odyssey-with-grok-ai/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Elon Musk Has Followed Through on His Threat to Remake ‘The Odyssey’ With Grok AI",
-  "snippet": "Unhappy with the success of Christopher Nolan's The Odyssey, Elon Musk said that Grok would create an AI-generated, feature-length version of The Odyssey. And he has sort of followed through. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/26/elon-musk-has-followed-through-on-his-threat-to-remake-the-odyssey-with-grok-ai/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Grok-The-Odyssey.jpg",
-  "date": "2026-10-26T14:19:29.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/26/1000-new-vs-1000-used-olympus-pen-f-vs-om-system-pen/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "$1,000 New vs $1,000 Used: Olympus PEN F vs OM System PEN",
-  "snippet": "The Olympus PEN F is easily one of the sexiest cameras you will ever hold, full stop. It deserved to become an instant classic when it hit the streets, and ten years later, the resale market price holds this statement to be true. When I reviewed it so many years ago, I fell in love with the camera, not just because it was gorgeous, but because it was so functional. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/26/1000-new-vs-1000-used-olympus-pen-f-vs-om-system-pen/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Olympus-PEN-F-vs-OM-System-PEN-1000-New-vs-1000-Used-1600x840.jpg",
-  "date": "2026-10-26T14:01:32.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/portraits/why-flawless-retouching-now-looks-ai-905177?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -242,14 +308,14 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Healey to shield low-income pensioners from income tax in the Budget",
-  "snippet": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
-  "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d71/live/21ebf010-c606-11f1-a64c-550be9e3c66b.jpg",
-  "date": "2026-10-26T10:28:12.000Z",
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-starting-this-week-with-a-little-joy/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Start This Week With a Little Joy",
+  "snippet": "If any artist could capture joy in a bottle, it would be Maira Kalman. The post The Daily Heller: Start This Week With a Little Joy appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-starting-this-week-with-a-little-joy/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/unnamed1.png?resize=750%2C805&quality=80&ssl=1",
+  "date": "2026-10-26T11:00:00.000Z",
   "bg": ""
  },
  {
@@ -297,28 +363,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-  "snippet": "The economic is positive now but come January things could become trickier for the Labour government",
-  "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg",
-  "date": "2026-10-26T00:26:49.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-  "snippet": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-  "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
-  "date": "2026-10-25T23:44:34.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/photojournalistic/how-lagos-ballet-photo-won-10000-flickr-x-black-women-photographers-grant-905172?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -363,14 +407,14 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/gear/one-best-things-canon-and-nikon-have-done-almost-no-one-notices-904347?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "One of the Best Things Canon and Nikon Have Done That Almost No One Notices",
-  "snippet": "Buy a Canon EOS R7 this afternoon, and the manual will tell you that you can register up to six LP-E6P, LP-E6NH, LP-E6N, or LP-E6 battery packs to it. That last one is the cell Canon put on sale in the EOS 5D Mark II in November 2008, nearly ten years before the RF mount existed. A battery bought for a DSLR still runs a mirrorless camera you can order new today, and that continuity almost never ap",
-  "link": "https://fstoppers.com/gear/one-best-things-canon-and-nikon-have-done-almost-no-one-notices-904347?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/canon-lp-e6-battery-since-2008-lp-e6-5d-mark-iii.jpg.webp?itok=2NJPl3E7",
-  "date": "2026-10-24T21:03:01.000Z",
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-express-kindness-by-making-a-poster/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Express Kindness by Making a Poster",
+  "snippet": "It's that simple. The post The Daily Heller: Express Kindness by Making a Poster appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-express-kindness-by-making-a-poster/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/FFK_2026-Open-Call-07.png?resize=1000%2C563&quality=80&ssl=1",
+  "date": "2026-10-23T11:00:00.000Z",
   "bg": ""
  },
  {
@@ -382,6 +426,17 @@
   "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
   "image": "",
   "date": "2026-10-22T15:51:39.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/a-happy-book-about-death/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: A Happy Book About Death",
+  "snippet": "'The Magic Box' is both ahead of its time and of its time. The post The Daily Heller: A Happy Book About Death appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/a-happy-book-about-death/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2014/04/2a34d8_fe44cb1ae8514b1293b60a1b1105863dmv2.jpg?resize=492%2C484&quality=89&ssl=1",
+  "date": "2026-10-22T11:00:00.000Z",
   "bg": ""
  },
  {
@@ -429,6 +484,17 @@
   "bg": ""
  },
  {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-peter-de-seve/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Peter de Sève’s Opening Night",
+  "snippet": "This consummate artist takes another well-earned bow. The post The Daily Heller: Peter de Sève’s Opening Night appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-peter-de-seve/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/EasterBunnyandMarchHare.jpg?resize=822%2C1024&quality=89&ssl=1",
+  "date": "2026-10-21T11:00:00.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
   "topic": "money",
   "source": "The Economist",
@@ -437,6 +503,28 @@
   "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
   "image": "",
   "date": "2026-10-20T18:32:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/what-matters/what-matters-to-gil-muinos/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "What Matters to Gil Muińos",
+  "snippet": "Gil Muińos reflects on the joys of fatherhood, the lasting grief of losing his father, and the curiosity and creativity that shape his life, while celebrating the small moments, family connections, and Cuban traditions that mean the most to him. The post What Matters to Gil Muińos appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/what-matters/what-matters-to-gil-muinos/",
+  "image": "",
+  "date": "2026-10-20T15:38:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/book-club/print-book-club-recap-the-art-of-starting-over-with-mirko-ilic/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "PRINT Book Club Recap: The Art of Starting Over with Mirko Ilić",
+  "snippet": "In the latest PRINT Book Club, legendary designer Mirko Ilić discusses how returning to comics during the pandemic inspired a deeply personal exploration of isolation, creativity, and the power of making art in uncertain times. The post PRINT Book Club Recap: The Art of Starting Over with Mirko Ilić appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/book-club/print-book-club-recap-the-art-of-starting-over-with-mirko-ilic/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Group-636-1.png?resize=1000%2C432&quality=80&ssl=1",
+  "date": "2026-10-20T14:49:16.000Z",
   "bg": ""
  },
  {
