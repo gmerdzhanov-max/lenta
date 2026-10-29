@@ -1,101 +1,134 @@
 [
  {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-gbank-financial-holdings-misses-q3-2026-estimates-shares-tumble-93CH-4981276",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: GBank Financial Holdings misses Q3 2026 estimates, shares tumble",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-gbank-financial-holdings-misses-q3-2026-estimates-shares-tumble-93CH-4981276",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-  "date": "2026-10-29T00:40:20.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/oil-dips-as-traders-weigh-iran-diplomacy-against-renewed-strike-risks-4981275",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Oil dips as traders weigh Iran diplomacy against renewed strike risks",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/oil-dips-as-traders-weigh-iran-diplomacy-against-renewed-strike-risks-4981275",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg",
-  "date": "2026-10-29T00:37:50.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economy-news/new-zealand-central-bank-governor-says-chances-of-december-hike-are-high-4981263",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "New Zealand central bank governor says chances of December hike are ’high’",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/new-zealand-central-bank-governor-says-chances-of-december-hike-are-high-4981263",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S00W_L.jpg",
-  "date": "2026-10-29T00:36:52.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply-4981268",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "US oil prices fall as investors gauge risks to Mideast supply",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/us-oil-prices-fall-as-investors-gauge-risks-to-mideast-supply-4981268",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S00Y_L.jpg",
-  "date": "2026-10-29T00:36:24.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
-  "snippet": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-  "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
-  "date": "2026-10-29T00:36:12.000Z",
+  "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+  "snippet": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+  "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+  "date": "2026-10-29T09:46:15.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-cyclopharm-posts-record-q3-2026-us-sales-93CH-4981273",
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-ayvens-q3-2026-margins-rise-as-usedcar-pressure-bites-93CH-4982199",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Earnings call transcript: Cyclopharm posts record Q3 2026 U.S. sales",
+  "title": "Earnings call transcript: Ayvens Q3 2026 margins rise as used-car pressure bites",
   "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cyclopharm-posts-record-q3-2026-us-sales-93CH-4981273",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-  "date": "2026-10-29T00:35:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-  "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-  "date": "2026-10-29T00:31:36.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/nippon-life-insurance-buys-639m-in-corebridge-financial-stock-93CH-4981270",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Nippon Life Insurance buys $6.39M in Corebridge Financial stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/nippon-life-insurance-buys-639m-in-corebridge-financial-stock-93CH-4981270",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-  "date": "2026-10-29T00:31:11.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-943619-in-company-stock-93CH-4981269",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Fastly CTO Artur Bergman sells $943,619 in company stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-943619-in-company-stock-93CH-4981269",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ayvens-q3-2026-margins-rise-as-usedcar-pressure-bites-93CH-4982199",
   "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-  "date": "2026-10-29T00:31:03.000Z",
+  "date": "2026-10-29T09:46:05.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/axactor-q3-2026-slides-refinancing-success-amid-revenue-pressure-93CH-4982197",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Axactor Q3 2026 slides: refinancing success amid revenue pressure",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/axactor-q3-2026-slides-refinancing-success-amid-revenue-pressure-93CH-4982197",
+  "image": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg",
+  "date": "2026-10-29T09:45:42.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-stmicroelectronics-posts-revenue-beat-in-q3-2026-93CH-4982196",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: STMicroelectronics posts revenue beat in Q3 2026",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-stmicroelectronics-posts-revenue-beat-in-q3-2026-93CH-4982196",
+  "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+  "date": "2026-10-29T09:45:14.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-posti-q3-2026-profit-jumps-stock-slips-22-93CH-4982194",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: Posti Q3 2026 profit jumps, stock slips 2.2%",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-posti-q3-2026-profit-jumps-stock-slips-22-93CH-4982194",
+  "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+  "date": "2026-10-29T09:45:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margins-rise-despite-revenue-headwinds-93CH-4982193",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Chedraui Q3 2026 slides: margins rise despite revenue headwinds",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margins-rise-despite-revenue-headwinds-93CH-4982193",
+  "image": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg",
+  "date": "2026-10-29T09:44:43.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/tecnotree-q3-2026-slides-margin-expansion-drives-guidance-raise-93CH-4982192",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Tecnotree Q3 2026 slides: margin expansion drives guidance raise",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/tecnotree-q3-2026-slides-margin-expansion-drives-guidance-raise-93CH-4982192",
+  "image": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
+  "date": "2026-10-29T09:44:13.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tangen-tops-q3-2026-with-69-sales-growth-93CH-4982191",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: Tången tops Q3 2026 with 69% sales growth",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tangen-tops-q3-2026-with-69-sales-growth-93CH-4982191",
+  "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+  "date": "2026-10-29T09:44:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margin-gains-offset-weak-consumer-demand-93CH-4982184",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Chedraui Q3 2026 slides: margin gains offset weak consumer demand",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/chedraui-q3-2026-slides-margin-gains-offset-weak-consumer-demand-93CH-4982184",
+  "image": "https://content-media.investing.com/news/LYNXMPEM3E1BM_1200_L.jpg",
+  "date": "2026-10-29T09:43:44.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+  "snippet": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+  "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
+  "date": "2026-10-29T09:30:03.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/gear/nikon-announces-new-nikkor-z-120-300mm-f28-tc-vr-s-905223?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Nikon Announces New NIKKOR Z 120-300mm f/2.8 TC VR S",
+  "snippet": "Top sports and wildlife photography shooters, this one is for you. Today, Nikon announced a new telephoto lens that focuses on getting you close to the action: the NIKKOR Z 120-300mm f/2.8 TC VR S.&nbsp; There are cool tools, and then there are professional precision tools that don’t cut any corners in giving you the highest level of optical performance a brand can offer. The NIKKOR Z 120-300mm f/",
+  "link": "https://fstoppers.com/gear/nikon-announces-new-nikkor-z-120-300mm-f28-tc-vr-s-905223?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/z120-300_2.8_angle4-copy.jpg.webp?itok=Crq_t0GL",
+  "date": "2026-10-29T04:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Nikon’s Nikkor Z 120-300mm f/2.8 TC VR S Picks Up Where a Legend Left Off",
+  "snippet": "Nikon has fully unveiled the Nikkor Z 120-300mm f/2.8 TC VR S, a new professional telephoto zoom lens for full-frame Nikon mirrorless cameras. Nikon first said it was making this lens back in early May. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/28/nikons-nikkor-z-120-300mm-f-2-8-tc-vr-s-picks-up-where-a-legend-left-off/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/AH_P_Z_120-300mm_f2.8_TC_VR_PBS_NI_06.jpg",
+  "date": "2026-10-29T04:01:15.000Z",
   "bg": ""
  },
  {
@@ -107,17 +140,6 @@
   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
   "date": "2026-10-29T00:00:25.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-  "snippet": "Properties where someone has died in tragic circumstances can have big reductions in price.",
-  "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
-  "date": "2026-10-29T00:00:15.000Z",
   "bg": ""
  },
  {
@@ -259,7 +281,7 @@
   "title": "Your pay, energy bills and savings: How the Budget affects you",
   "snippet": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
   "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
   "date": "2026-10-28T16:43:35.000Z",
   "bg": ""
  },
@@ -330,17 +352,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/28/sonys-new-50mp-smartphone-sensor-promises-nearly-17-stops-of-dynamic-range-and-better-low-light-photos/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Sony’s New 50MP Smartphone Sensor Promises Nearly 17 Stops of Dynamic Range and Better Low-Light Photos",
-  "snippet": "Sony has announced a new 50-megapixel Lytia (stylized \"LYTIA\") 720 image sensor. The 50-megapixel sensor promises industry-leading low-light performance and supports 4Kp60 HDR video recording. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/28/sonys-new-50mp-smartphone-sensor-promises-nearly-17-stops-of-dynamic-range-and-better-low-light-photos/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/sony-lytia-720-featured.jpg",
-  "date": "2026-10-28T14:10:55.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/lighting/how-pro-rescued-barber-shoot-after-his-first-idea-failed-905194?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -382,17 +393,6 @@
   "link": "https://fstoppers.com/astrophotography/how-blue-marble-became-one-most-reproduced-photographs-history-904380?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/blue-marble-hero-rotated.jpg.webp?itok=XVN29EHi",
   "date": "2026-10-27T21:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/gear/14-inch-macbook-pro-and-imac-get-apples-new-m6-chip-905215?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "The 14-Inch MacBook Pro and iMac Get Apple's New M6 Chip",
-  "snippet": "Apple's new M6 chip arrived on Tuesday in two Macs at once, the 14-inch MacBook Pro and the 24-inch iMac, with two more CPU cores and two more GPU cores than before. Both pick up Wi-Fi 7 and Bluetooth 6, and both open for preorder on Wednesday, October 28, ahead of a November 6 release. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/14-inch-macbook-pro-and-imac-get-apples-new-m6-chip-905215?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/apple-m6-macbook-pro-imac-lead.jpg.webp?itok=YTSGMMPX",
-  "date": "2026-10-27T17:35:12.000Z",
   "bg": ""
  },
  {
