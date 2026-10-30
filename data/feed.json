@@ -1,101 +1,123 @@
 [
  {
-  "id": "https://www.investing.com/news/analyst-ratings/truist-raises-api-group-stock-price-target-on-safety-growth-93CH-4986407",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Truist raises APi Group stock price target on safety growth",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/truist-raises-api-group-stock-price-target-on-safety-growth-93CH-4986407",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-  "date": "2026-10-30T09:52:51.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/bmo-capital-raises-atlassian-stock-price-target-on-revenue-mix-93CH-4986406",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "BMO Capital raises Atlassian stock price target on revenue mix",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/bmo-capital-raises-atlassian-stock-price-target-on-revenue-mix-93CH-4986406",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-  "date": "2026-10-30T09:52:50.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Evercore ISI raises TPG stock price target to $52 on fundraising",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/evercore-isi-raises-tpg-stock-price-target-to-52-on-fundraising-93CH-4986405",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-  "date": "2026-10-30T09:52:49.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Evercore ISI maintains Floor & Decor stock rating on margin concerns",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-floor--decor-stock-rating-on-margin-concerns-93CH-4986404",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-  "date": "2026-10-30T09:52:47.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "BMO raises HubSpot stock price target to $255 on steady SMB trends",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/bmo-raises-hubspot-stock-price-target-to-255-on-steady-smb-trends-93CH-4986403",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-  "date": "2026-10-30T09:52:46.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/foxconn-working-on-a-new-tieup-with-openai-says-there-is-no-ai-bubble-4986121",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/foxconn-working-on-a-new-tieup-with-openai-says-there-is-no-ai-bubble-4986121",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0J6_L.jpg",
-  "date": "2026-10-30T09:48:17.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/needham-cuts-alphatec-stock-price-target-on-biologics-concerns-93CH-4986394",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Needham cuts Alphatec stock price target on biologics concerns",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/needham-cuts-alphatec-stock-price-target-on-biologics-concerns-93CH-4986394",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-  "date": "2026-10-30T09:46:47.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Starbucks stock rating reaffirmed at Outperform by William Blair",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/starbucks-stock-rating-reaffirmed-at-outperform-by-william-blair-93CH-4986395",
-  "image": "https://content-media.investing.com/news/LYNXMPED0P1NK_M.jpg",
-  "date": "2026-10-30T09:46:47.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-  "snippet": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-  "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-10-30T09:33:51.000Z",
+  "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+  "snippet": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+  "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+  "date": "2026-10-30T17:47:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "European shares stumble at end of best month since June on AI worries",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0MT_L.jpg",
+  "date": "2026-10-30T17:30:22.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/walmart-invests-in-base-power-offers-battery-discounts-93CH-4988453",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Walmart invests in Base Power, offers battery discounts",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/walmart-invests-in-base-power-offers-battery-discounts-93CH-4988453",
+  "image": "https://content-media.investing.com/news/wallmart_1_M_1440049023.jpg",
+  "date": "2026-10-30T17:28:32.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1PH_L.jpg",
+  "date": "2026-10-30T17:24:54.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0Y9_L.jpg",
+  "date": "2026-10-30T17:24:37.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fedex-freight-stock-rating-at-hold-129-target-93CH-4988448",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Stifel reiterates FedEx Freight stock rating at Hold, $129 target",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fedex-freight-stock-rating-at-hold-129-target-93CH-4988448",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+  "date": "2026-10-30T17:22:48.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/arm-vs-qualcomm-growth-premium-against-valuation-cushion-93CH-4988447",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "ARM vs Qualcomm: growth premium against valuation cushion",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/arm-vs-qualcomm-growth-premium-against-valuation-cushion-93CH-4988447",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
+  "date": "2026-10-30T17:21:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-tumbling-today-93CH-4988444",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Why is Arm stock tumbling today?",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-tumbling-today-93CH-4988444",
+  "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+  "date": "2026-10-30T17:19:39.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-tumbling-today-93CH-4988443",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Why is Qualcomm stock tumbling today?",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-tumbling-today-93CH-4988443",
+  "image": "https://content-media.investing.com/news/LYNXMPEDAB0OY_M.jpg",
+  "date": "2026-10-30T17:16:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/canon-may-raise-camera-prices-due-to-increased-memory-costs/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Canon May Raise Camera Prices Due To Increased Memory Costs",
+  "snippet": "In August, Fujifilm mentioned the impact of rising raw materials prices in its routine financial reporting, and PetaPixel speculated that Fujifilm would be far from the only camera maker affected. It was the first domino to fall. Sure enough, Canon mentioned it during a Q&A on its FY2026 Q3 financial results, and the company will not be the only one to cite rising costs over the next few weeks. [ ",
+  "link": "https://petapixel.com/2026/10/30/canon-may-raise-camera-prices-due-to-increased-memory-costs/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/canon-digic-featured.jpg",
+  "date": "2026-10-30T16:48:54.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/controlled-chaos-getting-creative-with-psychedelic-blues-films/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Controlled Chaos: Getting Creative with Psychedelic Blues Films",
+  "snippet": "This Film Friday brings you a whole family of fun films with Psychedelic Blues. A great tagline for these experimental films could certainly be “expect the unexpected.” It could also be, “loosen up and have some fun!” [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/controlled-chaos-getting-creative-with-psychedelic-blues-films/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/Controlled-Chaos-Getting-Creative-with-Psychedelic-Blues-Films.jpg",
+  "date": "2026-10-30T16:12:14.000Z",
   "bg": ""
  },
  {
@@ -105,8 +127,140 @@
   "title": "Yorkshire Water boss resigns after firm downgraded",
   "snippet": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg",
-  "date": "2026-10-30T07:54:08.000Z",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-10-30T16:04:55.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/photographer-syncs-camera-with-fan-and-freezes-the-blades/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Photographer Syncs Camera With Fan and Freezes the Blades",
+  "snippet": "A YouTuber's playful photography experiment has already racked up over one million views in just a few days. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/photographer-syncs-camera-with-fan-and-freezes-the-blades/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/Fan-Freezing-Motion.jpg",
+  "date": "2026-10-30T15:24:18.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Goodwill Seemingly Has No Clue It’s Selling a Previously Unknown Leica Prototype Lens",
+  "snippet": "An exceedingly rare Leica prototype lens is up for auction right now. No, it's not at Leitz Photographica or Wetzlar Camera Auctions. It's at Goodwill. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
+  "date": "2026-10-30T14:04:18.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/these-15-great-cameras-are-all-at-least-300-off-right-now/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "These 15 Great Cameras Are All at Least $300 Off Right Now",
+  "snippet": "There are some screaming deals on a wide range of digital cameras right now, including both mirrorless and DSLR models with various sensor sizes. Here are 15 great cameras that are currently at least $300 off. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/these-15-great-cameras-are-all-at-least-300-off-right-now/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/camera-deals-15-300-dollars-featured.jpg",
+  "date": "2026-10-30T13:37:34.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/norway-shares-photos-of-its-stunning-toilets-after-trumps-insult/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Norway Shares Photos of Its Stunning Toilets After Trump’s Insult",
+  "snippet": "Norway is one of the most picturesque countries in the world, but that didn't stop President Trump from calling the Nordic nation a \"S***house\" this week. Now, Norway's tourist board has responded by publishing a series of photos showcasing some of the country's prettiest toilets. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/norway-shares-photos-of-its-stunning-toilets-after-trumps-insult/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/Norway-Stunning-Toilets.jpg",
+  "date": "2026-10-30T13:14:34.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/how-the-only-known-daguerreotype-of-new-yorks-first-black-attorney-was-discovered/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "How The Only Known Daguerreotype of New York’s First Black Attorney was Discovered",
+  "snippet": "The only known daguerreotype of New York’s First African American attorney George Boyer Vashon was recently discovered. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/how-the-only-known-daguerreotype-of-new-yorks-first-black-attorney-was-discovered/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/george-boyer-vashon.jpg",
+  "date": "2026-10-30T13:00:17.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/photographer-discovers-stranger-left-him-money-in-her-will-after-his-work-moved-her/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Photographer Discovers Stranger Left Him Money in Her Will After His Work Moved Her",
+  "snippet": "A photographer has revealed how a woman he had never met left him an inheritance after being moved by his work. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/photographer-discovers-stranger-left-him-money-in-her-will-after-his-work-moved-her/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/feature.jpg",
+  "date": "2026-10-30T12:49:08.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "What we know about Binance's $6.3bn hack",
+  "snippet": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+  "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-10-30T12:27:28.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+  "snippet": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+  "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-10-30T12:04:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Streeting denies 'kicking can down the road' in defence spending row",
+  "snippet": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+  "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
+  "date": "2026-10-30T11:23:38.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/gear/nikons-14000-120-300mm-f28-zoom-worth-its-size-905299?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Is Nikon's $14,000 120-300mm f/2.8 Zoom Worth Its Size?",
+  "snippet": "Nikon's NIKKOR Z 120-300mm f/2.8 TC VR S costs almost $14,000 and weighs more than 6 pounds, which puts it much closer to a big telephoto prime than a handy second zoom. With an f/2.8 aperture and a built-in 1.4x teleconverter, it's built to cover low-light wildlife, sports, and safaris with one lens. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/gear/nikons-14000-120-300mm-f28-zoom-worth-its-size-905299?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_115.jpg.webp?itok=0vuWK1AK",
+  "date": "2026-10-30T11:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-frighteningly-tantalizing-cocktails/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Frighteningly Tantalizing Cocktails",
+  "snippet": "Hellbent is giving fandom a buzz. The post The Daily Heller: Frighteningly Tantalizing Cocktails appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-frighteningly-tantalizing-cocktails/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/image3.jpeg?resize=682%2C1024&quality=89&ssl=1",
+  "date": "2026-10-30T11:00:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/gear/829-viltrox-35mm-f14-pro-worth-it-905298?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Is the $829 Viltrox 35mm f/1.4 Pro Worth It?",
+  "snippet": "Viltrox's new AF 35mm f/1.4 Pro costs $829 for Sony E and Nikon Z, which puts it below Sony's own 35mm f/1.4 GM and above Nikon's NIKKOR Z 35mm f/1.4. It's big and heavy for a 35mm f/1.4, with a metal body, weather-sealing, and an aperture ring that switches between clicked and smooth. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/gear/829-viltrox-35mm-f14-pro-worth-it-905298?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_114.jpg.webp?itok=quscKpfH",
+  "date": "2026-10-30T09:03:02.000Z",
   "bg": ""
  },
  {
@@ -143,17 +297,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Google value plunges by $500bn as AI search hits ad sales",
-  "snippet": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-  "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-10-29T22:17:52.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/animal/how-two-fluke-photos-revealed-humpback-had-crossed-world-904392?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -162,28 +305,6 @@
   "link": "https://fstoppers.com/animal/how-two-fluke-photos-revealed-humpback-had-crossed-world-904392?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/humpback-13046-kilometers-happywhale-hero-fluke.jpg.webp?itok=Djz_7mfX",
   "date": "2026-10-29T21:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/29/these-creepy-halloween-photos-date-back-to-the-mid-20th-century/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "These Creepy Halloween Photos Date Back to the Mid-20th Century",
-  "snippet": "These unsettling mid-20th century photos of kids in Halloween costumes are bound to bring a few memories -- or nightmares -- for viewers. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/these-creepy-halloween-photos-date-back-to-the-mid-20th-century/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Halloween-Costumes.jpg",
-  "date": "2026-10-29T20:30:12.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/29/japan-is-getting-its-first-dji-x-hasselblad-retail-store/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Japan Is Getting Its First DJI x Hasselblad Retail Store",
-  "snippet": "DJI and its Japanese domestic distributor, Sekido Co., Ltd., are opening Japan's first DJI and Hasselblad Dual-Concept Flagship Store this weekend in Tokyo. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/japan-is-getting-its-first-dji-x-hasselblad-retail-store/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/dji-hasselblad-store-featured.jpg",
-  "date": "2026-10-29T20:25:19.000Z",
   "bg": ""
  },
  {
@@ -198,39 +319,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/29/siruis-first-swift-series-full-frame-lenses-are-just-149/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Sirui’s First Swift Series Full-Frame Lenses Are Just $149",
-  "snippet": "Sirui has announced a new series of compact full-frame autofocus lenses: Swift. The series kicks off with two primes: the Sirui Swift 20mm f/2.4 and the Swift 40mm f/2.2. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/siruis-first-swift-series-full-frame-lenses-are-just-149/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/sirui-20-40-swift-featured.jpg",
-  "date": "2026-10-29T18:43:39.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/29/digital-camera-sales-are-slumping-despite-the-compact-camera-boom/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Digital Camera Sales Are Slumping Despite the Compact Camera Boom",
-  "snippet": "In 2025, global digital camera shipments increased for two years in a row for the first time in nearly two decades. With CIPA's August data available, marking the two-thirds point for the year, it does not look like 2026 will continue the upward trend. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/digital-camera-sales-are-slumping-despite-the-compact-camera-boom/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/compact-cameras-booming-featured.jpg",
-  "date": "2026-10-29T17:30:57.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "US interest rates held steady and economy grows - what it means for you",
-  "snippet": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-  "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
-  "date": "2026-10-29T17:15:05.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/awards/meet-the-2026-print-awards-student-winners/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -239,28 +327,6 @@
   "link": "https://www.printmag.com/awards/meet-the-2026-print-awards-student-winners/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Artboard-1-1.png?resize=1000%2C563&quality=80&ssl=1",
   "date": "2026-10-29T16:48:06.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Faisal Islam: This Budget was micro and that was deliberate",
-  "snippet": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-  "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
-  "date": "2026-10-29T15:48:44.000Z",
-  "bg": "Финансовите лидери по света се тревожат най-вече от Китай и изкуствения интелект."
- },
- {
-  "id": "https://petapixel.com/2026/10/29/the-lack-of-macos-on-ipad-pro-is-starting-to-feel-absurd/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "The Lack of macOS on iPad Pro Is Starting To Feel Absurd",
-  "snippet": "Now that Apple has added touch to the MacBook Pro, it's time to ask again: Why can't we run macOS on the iPad Pro? [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/the-lack-of-macos-on-ipad-pro-is-starting-to-feel-absurd/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/ipad-pro-why-not-macos.jpg",
-  "date": "2026-10-29T15:35:23.000Z",
   "bg": ""
  },
  {
@@ -275,28 +341,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/29/leicas-new-flagship-store-in-london-comes-with-a-limited-edition-m-a-camera/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Leica’s New Flagship Store in London Comes With a Limited Edition M-A Camera",
-  "snippet": "Leica has opened a swanky new flagship store in Central London, and 14 special-edition Leica M-A cameras are going on sale to mark the occasion. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/leicas-new-flagship-store-in-london-comes-with-a-limited-edition-m-a-camera/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Leica-Store-London.jpg",
-  "date": "2026-10-29T15:00:26.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/29/mandler-50mm-f-1-4-pre-a-review-looks-and-feels-like-a-leica-for-a-fraction-of-the-price/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Mandler 50mm f/1.4 Pre-A Review: Looks and Feels Like a Leica for a Fraction of the Price",
-  "snippet": "I feel like I’m struggling to keep my head above water in the deep ocean of the Chinese M-mount lens world. With so many manufacturers and so many different approaches, a reviewer like me can feel overwhelmed. Still, I keep treading these waters because this category can be so exciting. And the $368 Mandler 50mm f/1.4 is worth getting excited about. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/mandler-50mm-f-1-4-pre-a-review-looks-and-feels-like-a-leica-for-a-fraction-of-the-price/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/Mandler-50mm-f1.4-Pre-A-Review-Looks-and-Feels-Like-a-Leica-for-a-Fraction-of-the-Price.jpg",
-  "date": "2026-10-29T14:01:50.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/education/client-who-told-photographer-she-was-charging-too-little-905198?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -305,17 +349,6 @@
   "link": "https://fstoppers.com/education/client-who-told-photographer-she-was-charging-too-little-905198?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_110.jpg.webp?itok=dal5gygS",
   "date": "2026-10-29T13:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/10/29/viltrox-completes-f-1-4-pro-lineup-with-af-35mm-f-1-4-pro-for-e-and-z/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Viltrox Completes f/1.4 Pro Lineup With AF 35mm f/1.4 Pro for E and Z",
-  "snippet": "Viltrox has announced the new AF 35mm f/1.4 Pro lens for full-frame Sony E-mount and Nikon Z-mount mirrorless cameras. It promises a professional-grade build, high-end image quality, and reliable performance. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/29/viltrox-completes-f-1-4-pro-lineup-with-af-35mm-f-1-4-pro-for-e-and-z/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/byjuliadekeijzer_Viltrox_Morocco-467.jpg",
-  "date": "2026-10-29T13:00:42.000Z",
   "bg": ""
  },
  {
@@ -407,17 +440,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/gear/nikon-announces-new-nikkor-z-120-300mm-f28-tc-vr-s-905223?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Nikon Announces New NIKKOR Z 120-300mm f/2.8 TC VR S",
-  "snippet": "Top sports and wildlife photography shooters, this one is for you. Today, Nikon announced a new telephoto lens that focuses on getting you close to the action: the NIKKOR Z 120-300mm f/2.8 TC VR S.&nbsp; There are cool tools, and then there are professional precision tools that don’t cut any corners in giving you the highest level of optical performance a brand can offer. The NIKKOR Z 120-300mm f/",
-  "link": "https://fstoppers.com/gear/nikon-announces-new-nikkor-z-120-300mm-f28-tc-vr-s-905223?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/z120-300_2.8_angle4-copy.jpg.webp?itok=Crq_t0GL",
-  "date": "2026-10-29T04:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://digital-photography-school.com/is-it-still-photography-if-youre-only-using-your-phone/",
   "topic": "photo",
   "source": "Digital Photography School",
@@ -426,17 +448,6 @@
   "link": "https://digital-photography-school.com/is-it-still-photography-if-youre-only-using-your-phone/",
   "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2026/10/1791460004809952-scaled.jpg?resize=2560%2C1365&ssl=1",
   "date": "2026-10-28T22:57:57.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/gear/hands-apples-oled-macbook-pro-its-screen-stunning-person-905225?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Hands-On With Apple's OLED MacBook Pro: Its Screen Is Stunning in Person",
-  "snippet": "I'm at Apple's launch event at Columbia Square in Hollywood, and I just spent time hands-on with the new 16-inch MacBook Pro with PROLED XDR Display. I'm a huge display snob, and its tandem OLED screen is just stunning in person. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/hands-apples-oled-macbook-pro-its-screen-stunning-person-905225?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/apple-hero-lineup.jpg.webp?itok=v86BUBie",
-  "date": "2026-10-28T21:50:56.000Z",
   "bg": ""
  },
  {
@@ -514,17 +525,6 @@
   "link": "https://www.printmag.com/publication-design/we-now-copy-all-fobs-celebrates-the-charm-and-ridiculousness-of-paper-signage-at-small-businesses/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.17.56-PM-1.png?resize=744%2C1024&quality=80&ssl=1",
   "date": "2026-10-26T23:36:31.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.printmag.com/daily-heller/the-daily-heller-starting-this-week-with-a-little-joy/",
-  "topic": "brand",
-  "source": "Print Magazine",
-  "title": "The Daily Heller: Start This Week With a Little Joy",
-  "snippet": "If any artist could capture joy in a bottle, it would be Maira Kalman. The post The Daily Heller: Start This Week With a Little Joy appeared first on PRINT Magazine .",
-  "link": "https://www.printmag.com/daily-heller/the-daily-heller-starting-this-week-with-a-little-joy/",
-  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/unnamed1.png?resize=750%2C805&quality=80&ssl=1",
-  "date": "2026-10-26T11:00:00.000Z",
   "bg": ""
  },
  {
