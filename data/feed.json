@@ -1,5 +1,126 @@
 [
  {
+  "id": "https://www.investing.com/news/sec-filings/openworld-closes-35-million-registered-direct-offering-on-nasdaq-93CH-4988825",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "OpenWorld closes $3.5 million registered direct offering on Nasdaq",
+  "snippet": "",
+  "link": "https://www.investing.com/news/sec-filings/openworld-closes-35-million-registered-direct-offering-on-nasdaq-93CH-4988825",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+  "date": "2026-10-30T22:03:17.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-gets-fda-approval-for-first-product-93CH-4988824",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Inovio Pharmaceuticals gets FDA approval for first product",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-gets-fda-approval-for-first-product-93CH-4988824",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+  "date": "2026-10-30T22:01:26.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-10-owner-sells-587345-in-blackrock-ecat-93CH-4988823",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Saba Capital Management, 10% owner, sells $587,345 in BlackRock ECAT",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-10-owner-sells-587345-in-blackrock-ecat-93CH-4988823",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+  "date": "2026-10-30T22:01:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/sec-filings/kf-growth-acquisition-corp-ii-postpones-shareholder-meeting-and-amends-extension-proposal-93CH-4988815",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "K&F Growth Acquisition Corp. II postpones shareholder meeting and amends extension proposal",
+  "snippet": "",
+  "link": "https://www.investing.com/news/sec-filings/kf-growth-acquisition-corp-ii-postpones-shareholder-meeting-and-amends-extension-proposal-93CH-4988815",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+  "date": "2026-10-30T21:58:58.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Why is Inovio Pharmaceuticals stock surging today?",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
+  "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+  "date": "2026-10-30T21:58:57.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/sec-filings/digital-realty-trust-registers-resale-of-shares-issued-in-teraco-joint-venture-deal-93CH-4988813",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Digital Realty Trust registers resale of shares issued in Teraco joint venture deal",
+  "snippet": "",
+  "link": "https://www.investing.com/news/sec-filings/digital-realty-trust-registers-resale-of-shares-issued-in-teraco-joint-venture-deal-93CH-4988813",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+  "date": "2026-10-30T21:54:41.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow concerns",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T22N_L.jpg",
+  "date": "2026-10-30T21:54:17.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/why-is-georgia-banking-stock-climbing-today-93CH-4988812",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Why is Georgia Banking stock climbing today?",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/why-is-georgia-banking-stock-climbing-today-93CH-4988812",
+  "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+  "date": "2026-10-30T21:52:40.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Hacked Hasselblad X2D II 100C Shoots Video, Has ChatGPT, and Runs Linux",
+  "snippet": "A few weeks ago, PetaPixel posted a Snap about someone who got Doom running on a Hasselblad X2D II 100C. At the time, creator Radium Wang said they were working on more open-source projects for the X2D II 100C. Well, that's certainly proved true. [ Read More ]",
+  "link": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+  "image": "https://petapixel.com/assets/uploads/2026/10/hassel-hack.jpg",
+  "date": "2026-10-30T21:17:51.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+  "snippet": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+  "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-10-30T21:13:14.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/uncategorized/in-the-age-of-ai-curiosity-is-our-greatest-creative-tool/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "In the Age of AI, Curiosity Is Our Greatest Creative Tool",
+  "snippet": "Reflecting on DesignThinkers Toronto 2026, Amelia Nash explores why curiosity, creative thinking, and human connection matter more than ever in the age of AI. The post In the Age of AI, Curiosity Is Our Greatest Creative Tool appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/uncategorized/in-the-age-of-ai-curiosity-is-our-greatest-creative-tool/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/dtto-2026-branding_55617832606_o-683x1024.jpg?ssl=1",
+  "date": "2026-10-30T21:01:40.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -7,95 +128,29 @@
   "snippet": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-  "date": "2026-10-30T17:47:01.000Z",
+  "date": "2026-10-30T20:34:46.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "European shares stumble at end of best month since June on AI worries",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/european-shares-ease-as-aidriven-tech-selloff-deepens-4986074",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0MT_L.jpg",
-  "date": "2026-10-30T17:30:22.000Z",
+  "id": "https://www.printmag.com/branding-identity-design/cvs-and-pearlfisher-make-the-case-for-systems-design/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "CVS and Pearlfisher Make the Case for Systems Design",
+  "snippet": "What makes a packaging redesign work across thousands of products? For CVS and Pearlfisher, the answer lies in the system behind the design. From clearer product labels to category-specific visual cues, the redesign shows how thoughtful systems design can make everyday choices easier for shoppers while building a more cohesive brand. The post CVS and Pearlfisher Make the Case for Systems Design ap",
+  "link": "https://www.printmag.com/branding-identity-design/cvs-and-pearlfisher-make-the-case-for-systems-design/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/2_PF_CVS_AwardsVisuals_02.png?resize=1000%2C542&quality=80&ssl=1",
+  "date": "2026-10-30T18:34:59.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/company-news/walmart-invests-in-base-power-offers-battery-discounts-93CH-4988453",
+  "id": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Walmart invests in Base Power, offers battery discounts",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/walmart-invests-in-base-power-offers-battery-discounts-93CH-4988453",
-  "image": "https://content-media.investing.com/news/wallmart_1_M_1440049023.jpg",
-  "date": "2026-10-30T17:28:32.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/cdr-pursues-buyout-of-40-billion-payments-processor-global-payments-ft-reports-4988379",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T1PH_L.jpg",
-  "date": "2026-10-30T17:24:54.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/exxon-chevron-earnings-propelled-by-wardriven-refining-surge-4986750",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0Y9_L.jpg",
-  "date": "2026-10-30T17:24:37.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fedex-freight-stock-rating-at-hold-129-target-93CH-4988448",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Stifel reiterates FedEx Freight stock rating at Hold, $129 target",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-fedex-freight-stock-rating-at-hold-129-target-93CH-4988448",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-  "date": "2026-10-30T17:22:48.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/arm-vs-qualcomm-growth-premium-against-valuation-cushion-93CH-4988447",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "ARM vs Qualcomm: growth premium against valuation cushion",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/arm-vs-qualcomm-growth-premium-against-valuation-cushion-93CH-4988447",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEK8503S_L.jpg",
-  "date": "2026-10-30T17:21:27.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-tumbling-today-93CH-4988444",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Why is Arm stock tumbling today?",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/why-is-arm-stock-tumbling-today-93CH-4988444",
-  "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-  "date": "2026-10-30T17:19:39.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-tumbling-today-93CH-4988443",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Why is Qualcomm stock tumbling today?",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-tumbling-today-93CH-4988443",
-  "image": "https://content-media.investing.com/news/LYNXMPEDAB0OY_M.jpg",
-  "date": "2026-10-30T17:16:50.000Z",
+  "source": "BBC Business",
+  "title": "City of London chief tops UK Black Powerlist",
+  "snippet": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+  "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
+  "date": "2026-10-30T18:00:24.000Z",
   "bg": ""
  },
  {
@@ -143,6 +198,17 @@
   "bg": ""
  },
  {
+  "id": "https://fstoppers.com/education/why-tiny-subject-can-still-carry-whole-photo-905300?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Why a Tiny Subject Can Still Carry a Whole Photo",
+  "snippet": "A perfectly symmetrical frame can still feel wrong, while a frame with a speck of a subject tucked off to one side can feel completely settled. Balance in a photograph covers much more than equal weight on both sides, and how you handle it decides whether a viewer believes what they're seeing and knows where to look. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/why-tiny-subject-can-still-carry-whole-photo-905300?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_116.jpg.webp?itok=NzFDfKhR",
+  "date": "2026-10-30T15:03:02.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -176,6 +242,17 @@
   "bg": ""
  },
  {
+  "id": "https://fstoppers.com/education/how-get-good-photos-when-light-bad-905301?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "How to Get Good Photos When the Light Is Bad",
+  "snippet": "Most advice about natural light boils down to two instructions: shoot at golden hour and avoid midday. Both hold some truth, yet most of your shooting happens in the hours between, and knowing what the sun is doing at each stage decides whether a frame has depth or falls flat. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/how-get-good-photos-when-light-bad-905301?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_117.jpg.webp?itok=To61YIee",
+  "date": "2026-10-30T13:03:02.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://petapixel.com/2026/10/30/how-the-only-known-daguerreotype-of-new-yorks-first-black-attorney-was-discovered/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -187,17 +264,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/10/30/photographer-discovers-stranger-left-him-money-in-her-will-after-his-work-moved-her/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Photographer Discovers Stranger Left Him Money in Her Will After His Work Moved Her",
-  "snippet": "A photographer has revealed how a woman he had never met left him an inheritance after being moved by his work. [ Read More ]",
-  "link": "https://petapixel.com/2026/10/30/photographer-discovers-stranger-left-him-money-in-her-will-after-his-work-moved-her/",
-  "image": "https://petapixel.com/assets/uploads/2026/10/feature.jpg",
-  "date": "2026-10-30T12:49:08.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -206,28 +272,6 @@
   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
   "date": "2026-10-30T12:27:28.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-  "snippet": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-  "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-10-30T12:04:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Streeting denies 'kicking can down the road' in defence spending row",
-  "snippet": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
-  "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-10-30T11:23:38.000Z",
   "bg": ""
  },
  {
@@ -275,6 +319,17 @@
   "bg": ""
  },
  {
+  "id": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "How Poundland grew from a market stall to a high street giant",
+  "snippet": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+  "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
+  "date": "2026-10-30T06:08:22.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://fstoppers.com/gear/viltrox-completes-its-f14-pro-trio-35mm-sony-e-and-nikon-z-905296?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -305,17 +360,6 @@
   "link": "https://fstoppers.com/animal/how-two-fluke-photos-revealed-humpback-had-crossed-world-904392?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/humpback-13046-kilometers-happywhale-hero-fluke.jpg.webp?itok=Djz_7mfX",
   "date": "2026-10-29T21:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-  "snippet": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-  "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-  "date": "2026-10-29T19:11:10.000Z",
   "bg": ""
  },
  {
@@ -374,17 +418,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/education/making-intimate-landscapes-around-clear-cuts-and-power-lines-905197?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Making Intimate Landscapes Around Clear-Cuts and Power Lines",
-  "snippet": "You can drive half a day to reach peak autumn color and find the hillside carved up by a clear-cut, a power line, and a thicket of saplings. Pulling a clean, deliberate frame out of a compromised scene is a skill you'll use far more often than you'll stumble onto a perfect location. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/making-intimate-landscapes-around-clear-cuts-and-power-lines-905197?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_109.jpg.webp?itok=78rWhGHG",
-  "date": "2026-10-29T11:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/daily-heller/the-daily-heller-global-typographic-rarities/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -426,17 +459,6 @@
   "link": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
   "image": "",
   "date": "2026-10-29T09:47:49.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/settings-are-easy-teach-taste-another-story-905196?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Settings Are Easy to Teach, but Taste Is Another Story",
-  "snippet": "You can learn the settings that keep a photograph sharp in a single afternoon, yet nobody has a reliable formula for the quality that makes someone stop and look at it. That gap between technique and taste is the hardest part of photography to teach. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/settings-are-easy-teach-taste-another-story-905196?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_108.jpg.webp?itok=LzK1IowJ",
-  "date": "2026-10-29T09:03:01.000Z",
   "bg": ""
  },
  {
@@ -503,28 +525,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-its-graphic-wit-day/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/pushpin-moving.jpeg?resize=920%2C1024&quality=89&ssl=1",
   "date": "2026-10-27T11:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.printmag.com/dr-dori-cut/dr-doris-cut-100-words-no-filler-9/",
-  "topic": "brand",
-  "source": "Print Magazine",
-  "title": "Dr. Dori’s Cut: 100 Words. No Filler.",
-  "snippet": "Drawing on her work with AIGA’s Design for Democracy, Dr. Dori Tunstall explores how engaging, user-friendly digital tools can simplify the overwhelming voting process and help voters make more informed choices that reflect their values. The post Dr. Dori’s Cut: 100 Words. No Filler. appeared first on PRINT Magazine .",
-  "link": "https://www.printmag.com/dr-dori-cut/dr-doris-cut-100-words-no-filler-9/",
-  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/LAist-Voter-Game-Plan-1.png?resize=1000%2C542&quality=80&ssl=1",
-  "date": "2026-10-27T00:27:51.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.printmag.com/publication-design/we-now-copy-all-fobs-celebrates-the-charm-and-ridiculousness-of-paper-signage-at-small-businesses/",
-  "topic": "brand",
-  "source": "Print Magazine",
-  "title": "‘We Now Copy All Fobs’ Celebrates the Charm and Ridiculousness of Paper Signage at Small Businesses",
-  "snippet": "Samuel Williams has released a zine compilation of the paper signs he's come upon throughout the UK over the last decade. The post ‘We Now Copy All Fobs’ Celebrates the Charm and Ridiculousness of Paper Signage at Small Businesses appeared first on PRINT Magazine .",
-  "link": "https://www.printmag.com/publication-design/we-now-copy-all-fobs-celebrates-the-charm-and-ridiculousness-of-paper-signage-at-small-businesses/",
-  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.17.56-PM-1.png?resize=744%2C1024&quality=80&ssl=1",
-  "date": "2026-10-26T23:36:31.000Z",
   "bg": ""
  },
  {
