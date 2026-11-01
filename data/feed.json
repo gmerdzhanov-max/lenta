@@ -1,90 +1,123 @@
 [
  {
-  "id": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+  "id": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Top takeaways from Bernstein’s annual Global Sportswear survey",
+  "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEL3M13K_L.jpg",
-  "date": "2026-10-31T22:57:05.000Z",
+  "link": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+  "image": "https://content-media.investing.com/news/DeepSeek_800x533_L_1738012421.jpg",
+  "date": "2026-11-01T05:45:12.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+  "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
   "topic": "money",
   "source": "Investing.com",
-  "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+  "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
   "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9U07Y_L.jpg",
-  "date": "2026-10-31T22:00:23.000Z",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
+  "date": "2026-11-01T05:19:12.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+  "id": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+  "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
-  "image": "https://content-media.investing.com/news/LYNXMPEB4H0KM_M.jpg",
-  "date": "2026-10-31T21:20:03.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-  "snippet": "",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-  "image": "https://content-media.investing.com/news/moved_LYNXNPEL260TM_L.jpg",
-  "date": "2026-10-31T20:56:59.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "OPEC+ set to hold December oil output steady, Reuters reports",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S1E5_L.jpg",
-  "date": "2026-10-31T20:44:25.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9U071_L.jpg",
-  "date": "2026-10-31T20:12:39.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA00U4_L.jpg",
+  "date": "2026-11-01T05:00:28.000Z",
   "bg": ""
  },
  {
   "id": "https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Thousands return to Lisbon square, press government to scrap rental bill",
+  "title": "Police clear new Lisbon housing protest camp after thousands rally",
   "snippet": "",
   "link": "https://www.investing.com/news/economic-indicators/thousands-return-to-lisbon-square-press-government-to-scrap-rental-bill-4989325",
   "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9U0KK_L.jpg",
-  "date": "2026-10-31T19:48:17.000Z",
+  "date": "2026-11-01T04:48:20.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+  "id": "https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Citi sees European gas prices rising in 2027 as Middle East risks spur price gains",
+  "title": "Hanwha secures $269 million U.S. Navy shipbuilding contract, eyes more orders",
   "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEI5M0AS_L.jpg",
-  "date": "2026-10-31T19:33:24.000Z",
+  "link": "https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
+  "image": "https://content-media.investing.com/news/LYNXMPED3O1SM_M.jpg",
+  "date": "2026-11-01T04:41:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Shore Bancshares director John Lamon buys $7,753 of common stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/shore-bancshares-director-john-lamon-buys-7753-of-common-stock-93CH-4989381",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+  "date": "2026-11-01T04:16:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Bangladesh to form wage board after garment protests shut factories",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA00SX_L.jpg",
+  "date": "2026-11-01T03:00:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "AI investors rush to hedge against potential tech market downturn - WSJ",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/ai-investors-rush-to-hedge-against-potential-tech-market-downturn--wsj-4989371",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM721DY_1200_L.jpg",
+  "date": "2026-11-01T02:32:11.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/historical/fake-photo-helped-sink-us-senator-904414?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "The Fake Photo That Helped Sink a U.S. Senator",
+  "snippet": "In the last stretch of the 1950 Maryland Senate race, roughly 300,000 copies of a four-page tabloid called From the Record went out across the state, and inside was a picture of Senator Millard Tydings standing close beside Earl Browder, the former head of the American Communist Party. The two men had never posed together, and the caption underneath called the picture a composite. Tydings lost by ",
+  "link": "https://fstoppers.com/historical/fake-photo-helped-sink-us-senator-904414?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/the-composite-photograph-that-cost-a-senator-his-seat-tydings-desk.jpg.webp?itok=Z6OfeiyP",
+  "date": "2026-10-31T21:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/pictures/photographer-month-october-2026-dave-g-905297?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Fstoppers Photographer of the Month (October 2026): Dave G",
+  "snippet": "The Fstoppers community is brimming with creative vision and talent. Every day, we comb through your work, looking for images to feature as the Photo of the Day&nbsp;or simply to admire your creativity and technical prowess. In 2026, we're featuring a new photographer every month,&nbsp;whose portfolio represents both stellar photographic achievement and a high level of involvement within the Fstop",
+  "link": "https://fstoppers.com/pictures/photographer-month-october-2026-dave-g-905297?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-photographer-of-the-month-october-2026-dave-g.jpeg.webp?itok=Pz_cTjRp",
+  "date": "2026-10-31T17:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/legal/it-legal-clone-photoshop-ai-905319?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Is It Legal to Clone Photoshop With AI?",
+  "snippet": "A small team has released PhotoCraft, a free, open-source stand-in for Photoshop built with heavy help from AI, and it's designed so anyone fluent in Adobe's menus and shortcuts can sit down and start working. If you pay for Creative Cloud every month, whether a project like this can legally exist shapes how many real alternatives you end up with. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/legal/it-legal-clone-photoshop-ai-905319?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_120.jpg.webp?itok=hDMcoxkp",
+  "date": "2026-10-31T15:03:01.000Z",
   "bg": ""
  },
  {
@@ -308,17 +341,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/gear/nikons-14000-120-300mm-f28-zoom-worth-its-size-905299?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Is Nikon's $14,000 120-300mm f/2.8 Zoom Worth Its Size?",
-  "snippet": "Nikon's NIKKOR Z 120-300mm f/2.8 TC VR S costs almost $14,000 and weighs more than 6 pounds, which puts it much closer to a big telephoto prime than a handy second zoom. With an f/2.8 aperture and a built-in 1.4x teleconverter, it's built to cover low-light wildlife, sports, and safaris with one lens. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/nikons-14000-120-300mm-f28-zoom-worth-its-size-905299?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_115.jpg.webp?itok=0vuWK1AK",
-  "date": "2026-10-30T11:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/daily-heller/the-daily-heller-frighteningly-tantalizing-cocktails/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -327,17 +349,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-frighteningly-tantalizing-cocktails/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/image3.jpeg?resize=682%2C1024&quality=89&ssl=1",
   "date": "2026-10-30T11:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/gear/829-viltrox-35mm-f14-pro-worth-it-905298?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Is the $829 Viltrox 35mm f/1.4 Pro Worth It?",
-  "snippet": "Viltrox's new AF 35mm f/1.4 Pro costs $829 for Sony E and Nikon Z, which puts it below Sony's own 35mm f/1.4 GM and above Nikon's NIKKOR Z 35mm f/1.4. It's big and heavy for a 35mm f/1.4, with a metal body, weather-sealing, and an aperture ring that switches between clicked and smooth. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/829-viltrox-35mm-f14-pro-worth-it-905298?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_114.jpg.webp?itok=quscKpfH",
-  "date": "2026-10-30T09:03:02.000Z",
   "bg": ""
  },
  {
@@ -360,17 +371,6 @@
   "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
   "date": "2026-10-30T06:08:22.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/gear/viltrox-completes-its-f14-pro-trio-35mm-sony-e-and-nikon-z-905296?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Viltrox Completes Its f/1.4 Pro Trio With a 35mm for Sony E and Nikon Z",
-  "snippet": "Viltrox has announced the AF 35mm f/1.4 Pro, a weather-sealed full frame prime for Sony E and Nikon Z with a 16-element optical design and voice coil autofocus. It costs $829 and joins the 50mm and 85mm f/1.4 Pro lenses, which gives Viltrox a set of three fast primes that comes in under $2,000 combined. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/viltrox-completes-its-f14-pro-trio-35mm-sony-e-and-nikon-z-905296?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/viltrox-af-35mm-f1-4-pro-lead.jpg.webp?itok=U1dAUiBS",
-  "date": "2026-10-30T00:45:42.000Z",
   "bg": ""
  },
  {
