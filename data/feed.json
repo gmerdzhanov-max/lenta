@@ -1,24 +1,101 @@
 [
  {
-  "id": "https://www.investing.com/news/insider-trading-news/cullenfrost-bankers-chief-accounting-officer-henson-sells-85290-of-stock-93CH-5010272",
+  "id": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Cullen/Frost Bankers chief accounting officer Henson sells $85,290 of stock",
+  "title": "How a digital bank’s collapse toppled Paraguay’s president",
   "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/cullenfrost-bankers-chief-accounting-officer-henson-sells-85290-of-stock-93CH-5010272",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-  "date": "2026-11-08T17:01:15.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/how-a-digital-banks-collapse-toppled-paraguays-president-5010316",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA70KT_L.jpg",
+  "date": "2026-11-08T21:30:22.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
+  "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
   "topic": "money",
   "source": "Investing.com",
-  "title": "China AI bust threatens Xi’s ’Wall Street East’ ambitions",
+  "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/china-ai-bust-threatens-xis-wall-street-east-ambitions-5010271",
-  "image": "https://content-media.investing.com/news/LYNXMPEE2T0K2_M.jpg",
-  "date": "2026-11-08T16:47:12.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5010323",
+  "image": "https://content-media.investing.com/news/LYNXMPEA6206S_M.jpg",
+  "date": "2026-11-08T21:20:04.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Nvidia CEO Huang admits to affair, apologizes to employees as probe launched",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM130GP_1200_L.jpg",
+  "date": "2026-11-08T21:08:53.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Beacon Financial director Hughes buys $6,146 in company stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/beacon-financial-director-hughes-buys-6146-in-company-stock-93CH-5010317",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+  "date": "2026-11-08T21:01:10.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA704M_L.jpg",
+  "date": "2026-11-08T21:00:45.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+  "snippet": "",
+  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEI880OH_L.jpg",
+  "date": "2026-11-08T20:32:53.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Nvidia launches probe after report CEO Huang was target of foreign intelligence",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA70K4_L.jpg",
+  "date": "2026-11-08T20:18:25.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Houthi attack damages Aramco building in Riyadh’s financial district",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
+  "image": "https://content-media.investing.com/news/LYNXMPED6Q1IR_M.jpg",
+  "date": "2026-11-08T20:12:21.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/education/how-build-serious-photo-series-905140?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "How to Build a 'Serious' Photo Series",
+  "snippet": "In the first part of this series, I looked at why trying to define a heavy conceptual theme before taking a picture usually leads straight to creative paralysis. Holding onto a loose constraint or a wide idea gives you room to react in the field, but it leaves an obvious question: if you don’t define the story beforehand, how does a coherent series actually come together? [ Read More ]",
+  "link": "https://fstoppers.com/education/how-build-serious-photo-series-905140?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/20260613-downtownchicago-027.jpg.webp?itok=zldlOUHQ",
+  "date": "2026-11-08T17:03:02.000Z",
   "bg": ""
  },
  {
@@ -33,69 +110,14 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/buy-the-dip-in-this-canadian-stock-rj-5010264",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Buy the dip in this Canadian stock: RJ",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/buy-the-dip-in-this-canadian-stock-rj-5010264",
-  "image": "https://content-media.investing.com/news/LYNXNPEE560CL_M.jpg",
-  "date": "2026-11-08T16:22:03.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/how-sustainable-is-the-ai-investment-boom-after-thursdays-selloff-5010263",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "How sustainable is the AI investment boom after Thursday’s selloff?",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/how-sustainable-is-the-ai-investment-boom-after-thursdays-selloff-5010263",
-  "image": "https://content-media.investing.com/news/moved_LYNXNPEK2J0UH_L.jpg",
-  "date": "2026-11-08T16:17:11.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/labcorp-director-richelle-parham-sells-389395-in-shares-93CH-5010259",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Labcorp director Richelle Parham sells $389,395 in shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/labcorp-director-richelle-parham-sells-389395-in-shares-93CH-5010259",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-  "date": "2026-11-08T16:01:17.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Golf-BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/private-equity-firm-bc-partners-seeks-to-take-control-of-liv-golf-from-saudi-wealth-fund-ft-reports-5010245",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA70B8_L.jpg",
-  "date": "2026-11-08T16:00:22.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Houthi attack damages Aramco building in Riyadh’s financial district",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
-  "image": "https://content-media.investing.com/news/LYNXMPED6Q1IR_M.jpg",
-  "date": "2026-11-08T15:54:04.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Top 5 stocks to watch this week",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/top-5-stocks-to-watch-this-week-5010257",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM741UY_L.jpg",
-  "date": "2026-11-08T15:50:25.000Z",
+  "id": "https://fstoppers.com/education/lightroom-slider-fixes-flat-muddy-background-905466?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "The Lightroom Slider That Fixes a Flat, Muddy Background",
+  "snippet": "A sharp subject against a background that's one flat wash of brown can feel lifeless, even when the exposure is spot-on. Lightroom's Point Color tool includes a Variance slider that spreads or squeezes the range of colors in a selected area, and it gives you a fast way to put life back into a backdrop without opening Photoshop. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/lightroom-slider-fixes-flat-muddy-background-905466?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_26.jpg.webp?itok=46E8QQli",
+  "date": "2026-11-08T16:03:01.000Z",
   "bg": ""
  },
  {
@@ -118,6 +140,17 @@
   "link": "https://petapixel.com/2026/11/08/bringing-back-the-image-formats-apple-forgot/",
   "image": "https://petapixel.com/assets/uploads/2026/11/Bringing-Back-the-Image-Formats-Apple-Forgot.jpg",
   "date": "2026-11-08T15:00:19.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/gear/149-sirui-swift-40mm-f22-vs-three-pricier-40mm-primes-905465?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "The $149 Sirui Swift 40mm f/2.2 vs. Three Pricier 40mm Primes",
+  "snippet": "At $149, the Sirui Swift 40mm f/2.2 costs less than Sony's, Nikon's, and Viltrox's compact 40mm autofocus primes, and only Nikon's is brighter. If you've been eyeing a small prime as your first step up from a kit lens, the trade-offs at that price turn out to be modest: a little extra weight and some color fringing. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/gear/149-sirui-swift-40mm-f22-vs-three-pricier-40mm-primes-905465?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_25.jpg.webp?itok=3Dju0Tyt",
+  "date": "2026-11-08T14:03:02.000Z",
   "bg": ""
  },
  {
@@ -363,28 +396,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/education/why-new-printer-owners-should-start-basic-manufacturer-paper-905441?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Why New Printer Owners Should Start With Basic Manufacturer Paper",
-  "snippet": "Buy a new photo printer, and the next temptation is a shopping cart full of baryta, cotton rag, and sampler packs of photo paper from every maker you've heard of. Paper shapes how a print looks, but telling which paper suits your images depends on a skill you can only build by printing a lot. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/why-new-printer-owners-should-start-basic-manufacturer-paper-905441?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_18.jpg.webp?itok=9nX5S5Bx",
-  "date": "2026-11-06T16:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/why-focusing-background-makes-photos-feel-dreamy-905440?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Why Focusing on the Background Makes Photos Feel Dreamy",
-  "snippet": "Nearly everything you learn about focus points in one direction: keep the subject sharp and let the background fall apart. Reversing that, so the person in front of the lens goes soft while the scene behind them stays crisp, is one of the simplest ways to make an image feel dreamy and a little unreal. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/why-focusing-background-makes-photos-feel-dreamy-905440?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_17.jpg.webp?itok=hgBgne9K",
-  "date": "2026-11-06T14:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/daily-heller/the-daily-heller-the-vignellis-are-back/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -393,17 +404,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-the-vignellis-are-back/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Lella-Massimo-portrait.jpg?resize=1000%2C721&quality=89&ssl=1",
   "date": "2026-11-06T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/why-long-term-project-makes-photography-feel-less-repetitive-905438?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Why a Long-Term Project Makes Photography Feel Less Repetitive",
-  "snippet": "Landscape photography can settle into a loop: scout a spot, wait for light, take the frame, go home, and do it again next weekend. That routine produces some beautiful single images, but a hard drive full of unrelated pictures rarely adds up to a body of work you can show someone. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/why-long-term-project-makes-photography-feel-less-repetitive-905438?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_15.jpg.webp?itok=81E74SXU",
-  "date": "2026-11-06T10:03:02.000Z",
   "bg": ""
  },
  {
