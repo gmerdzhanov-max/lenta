@@ -1,101 +1,255 @@
 [
  {
-  "id": "https://www.investing.com/news/economy-news/analysischina-seeks-hightech-upper-hand-in-industry-carrying-80-of-global-trade-5013897",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Analysis-China seeks high-tech upper hand in industry carrying 80% of global trade",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economy-news/analysischina-seeks-hightech-upper-hand-in-industry-carrying-80-of-global-trade-5013897",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA905R_L.jpg",
-  "date": "2026-11-10T03:12:43.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economic-indicators/indonesias-september-retail-sales-rise-06-yy-survey-shows-5013996",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Indonesia’s September retail sales rise 0.6% y/y, survey shows",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economic-indicators/indonesias-september-retail-sales-rise-06-yy-survey-shows-5013996",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA909M_L.jpg",
-  "date": "2026-11-10T03:12:28.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/nicolet-bankshares-director-atwell-sells-618k-in-company-stock-93CH-5013990",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Nicolet Bankshares director Atwell sells $618K in company stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/nicolet-bankshares-director-atwell-sells-618k-in-company-stock-93CH-5013990",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-  "date": "2026-11-10T03:01:07.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/kdt-ibotta-holdings-10-owner-sells-116m-in-ibotta-stock-93CH-5013989",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "KDT Ibotta Holdings, 10% owner, sells $11.6M in Ibotta stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/kdt-ibotta-holdings-10-owner-sells-116m-in-ibotta-stock-93CH-5013989",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-  "date": "2026-11-10T03:01:06.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-414m-chime-financial-nasdaqchym-stock-93CH-5013988",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "DST Global Advisors sells $41.4M Chime Financial (NASDAQ:CHYM) stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-414m-chime-financial-nasdaqchym-stock-93CH-5013988",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-  "date": "2026-11-10T03:00:59.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/cs-disco-ceo-eric-friedrichsen-buys-24470-in-company-stock-93CH-5013987",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "CS Disco CEO Eric Friedrichsen buys $24,470 in company stock",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/cs-disco-ceo-eric-friedrichsen-buys-24470-in-company-stock-93CH-5013987",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-  "date": "2026-11-10T03:00:53.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/us-sues-lyft-alleges-it-denied-rides-to-passengers-with-service-dogs-and-wheelchairs-5013896",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "US sues Lyft, alleges discrimination against disabled riders",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-sues-lyft-alleges-it-denied-rides-to-passengers-with-service-dogs-and-wheelchairs-5013896",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA905O_L.jpg",
-  "date": "2026-11-10T03:00:27.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/economic-indicators/china-trade-balance-shrinks-more-than-expected-in-oct-imports-surge-5013983",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "China trade balance shrinks more than expected in Oct; imports surge",
-  "snippet": "",
-  "link": "https://www.investing.com/news/economic-indicators/china-trade-balance-shrinks-more-than-expected-in-oct-imports-surge-5013983",
-  "image": "https://content-media.investing.com/news/LYNXMPEC070EL_M.jpg",
-  "date": "2026-11-10T02:59:52.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-  "snippet": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-  "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
-  "date": "2026-11-10T01:55:22.000Z",
+  "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+  "snippet": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+  "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+  "date": "2026-11-10T14:46:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "US inflation higher than expected in October - here's what is happening with prices",
+  "snippet": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+  "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+  "date": "2026-11-10T14:45:46.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+  "snippet": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+  "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+  "date": "2026-11-10T14:15:28.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-aviat-networks-misses-q1-2027-profit-view-but-lifts-demand-outlook-93CH-5015886",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: Aviat Networks misses Q1 2027 profit view but lifts demand outlook",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-aviat-networks-misses-q1-2027-profit-view-but-lifts-demand-outlook-93CH-5015886",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+  "date": "2026-11-10T14:14:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tim-sa-q3-2026-misses-estimates-but-shares-rise-93CH-5015885",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: TIM S.A. Q3 2026 misses estimates but shares rise",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tim-sa-q3-2026-misses-estimates-but-shares-rise-93CH-5015885",
+  "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+  "date": "2026-11-10T14:14:52.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/exagen-q3-2026-slides-revenue-hits-record-amid-asp-growth-streak-93CH-5015883",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Exagen Q3 2026 slides: revenue hits record amid ASP growth streak",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/exagen-q3-2026-slides-revenue-hits-record-amid-asp-growth-streak-93CH-5015883",
+  "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
+  "date": "2026-11-10T14:14:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-riachuelo-q3-2026-profit-miss-weighs-on-shares-93CH-5015882",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: Riachuelo Q3 2026 profit miss weighs on shares",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-riachuelo-q3-2026-profit-miss-weighs-on-shares-93CH-5015882",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+  "date": "2026-11-10T14:13:52.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/hydro-one-q3-2026-slides-rate-base-growth-on-track-despite-cost-pressures-93CH-5015881",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Hydro One Q3 2026 slides: rate base growth on track despite cost pressures",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/hydro-one-q3-2026-slides-rate-base-growth-on-track-despite-cost-pressures-93CH-5015881",
+  "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+  "date": "2026-11-10T14:13:22.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/canaan-q3-2026-slides-selfmining-hits-65-texas-power-projects-advance-93CH-5015880",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Canaan Q3 2026 slides: self-mining hits 65%, Texas power projects advance",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/canaan-q3-2026-slides-selfmining-hits-65-texas-power-projects-advance-93CH-5015880",
+  "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+  "date": "2026-11-10T14:13:03.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/dropbox-stock-falls-after-pricing-11b-convertible-notes-5015878",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Dropbox stock falls after pricing $1.1B convertible notes",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/dropbox-stock-falls-after-pricing-11b-convertible-notes-5015878",
+  "image": "https://content-media.investing.com/news/LYNXMPEE0A1IA_M.jpg",
+  "date": "2026-11-10T14:12:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Wall St set for feeble open after October’s hot inflation print",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA90WK_L.jpg",
+  "date": "2026-11-10T14:12:43.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Adobe’s Creative Agent Wants To Do the Photo and Video Editing Tasks You Don’t Want To",
+  "snippet": "Adobe has been developing agentic AI for years, and at this year's Adobe MAX in Miami, it looks like it has finally been fully unleashed. Adobe is ushering in significant expansions to the Adobe Creative Agent, which users can direct using text across not only Adobe's Firefly AI platform but also Creative Cloud apps like Photoshop and Premiere. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/FF-ImageEditor-No-Logo-21.jpg",
+  "date": "2026-11-10T14:00:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Premiere Update Brings Color Mode Out of Beta, Plus Generative Video & AI Audio Tools",
+  "snippet": "Adobe is updating Premiere with a ton of AI-based tools and assistance as well as promising a new, wholly revamped approach to color grading. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Premiere-Pro-Updates-Add-AI-Assist-Everywhere-and-Revamps-Color-Grading.jpg",
+  "date": "2026-11-10T14:00:40.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/photoshop-now-relights-and-restyles-your-photos-using-ai/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Photoshop Now Relights and Restyles Your Photos Using AI",
+  "snippet": "Today at Adobe MAX 2026 in Miami Beach, Adobe announced a wide range of updates to its core applications and technologies, including Photoshop and Lightroom. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/photoshop-now-relights-and-restyles-your-photos-using-ai/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/PS-Ai-Assisted-Editor-Logo-32.jpg",
+  "date": "2026-11-10T14:00:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/leica-unveils-cine-play-1-plus-4k-projector-with-4200-lumens/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Leica Unveils Cine Play 1 Plus 4K Projector With 4,200 Lumens",
+  "snippet": "Leica has announced the Cine Play 1 Plus, an upgraded version of its compact 4K smart projector that increases brightness and contrast compared with its predecessor. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/leica-unveils-cine-play-1-plus-4k-projector-with-4200-lumens/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Leica-Cine1.jpg",
+  "date": "2026-11-10T14:00:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/what-matters/what-matters-to-daniel-fries/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "What Matters to Daniel Fries",
+  "snippet": "Daniel Fries is a creative entrepreneur and filmmaker who reflects on the joys of collaboration and storytelling, the inspiration he finds in his children, his passion for filmmaking, and the persistence, ambition, and curiosity that drive his creative life. The post What Matters to Daniel Fries appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/what-matters/what-matters-to-daniel-fries/",
+  "image": "",
+  "date": "2026-11-10T14:00:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "Polymarket says annualized revenue has topped $1.8 billion",
+  "snippet": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
+  "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+  "image": "",
+  "date": "2026-11-10T13:00:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-6/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Everyday Design From Everywhere in Forest Hills and Beyond",
+  "snippet": "John Kudos has begun cataloguing a rich vein of typography from his travels and neighborhood. The post The Daily Heller: Everyday Design From Everywhere in Forest Hills and Beyond appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-6/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/02/99-typeobjt-TDC-party.jpeg?resize=1000%2C526&quality=89&ssl=1",
+  "date": "2026-11-10T12:30:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Photographer Killed While Capturing Vintage Airplane",
+  "snippet": "A photographer has died after she was struck by a vintage airplane that she was taking pictures of. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Pam-Haselton.jpg",
+  "date": "2026-11-10T11:12:28.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/the-odyssey-has-delivered-record-profits-for-imax/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "‘The Odyssey’ Has Delivered Record Profits for IMAX",
+  "snippet": "IMAX reported its strongest quarterly financial performance in the company’s history last week, with record box office, revenue, and profits for the third quarter of 2026. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/the-odyssey-has-delivered-record-profits-for-imax/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/IMAX-Logo.jpg",
+  "date": "2026-11-10T09:59:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+  "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+  "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
+  "date": "2026-11-10T09:57:49.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+  "snippet": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+  "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+  "date": "2026-11-10T09:23:55.000Z",
+  "bg": "Финансовите лидери по света се тревожат най-вече от Китай и изкуствения интелект."
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+  "snippet": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+  "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "image": "",
+  "date": "2026-11-10T09:00:01.000Z",
   "bg": ""
  },
  {
@@ -105,19 +259,30 @@
   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
   "snippet": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-  "date": "2026-11-10T01:44:53.000Z",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+  "date": "2026-11-10T08:23:21.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-  "snippet": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-  "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-09T23:51:22.000Z",
+  "title": "I took Vinted to court to get my money back",
+  "snippet": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+  "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
+  "date": "2026-11-10T00:27:37.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "The superpower battle over energy – and what it means for your bills",
+  "snippet": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+  "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-11-10T00:08:28.000Z",
   "bg": ""
  },
  {
@@ -140,17 +305,6 @@
   "link": "https://fstoppers.com/historical/florestine-perrault-collins-passed-white-learn-trade-then-ran-black-portrait-904468?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/florestine-perrault-collins-black-press-photographers.jpg.webp?itok=-ajwx2vD",
   "date": "2026-11-09T22:03:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-  "snippet": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-  "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg",
-  "date": "2026-11-09T21:52:28.000Z",
   "bg": ""
  },
  {
@@ -187,28 +341,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-  "snippet": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-  "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-09T19:58:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/09/over-50-award-winning-wildlife-and-nature-photos-from-the-2027-nanpa-showcase/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Over 50 Award-Winning Wildlife and Nature Photos From the 2027 NANPA Showcase",
-  "snippet": "The North American Nature Photography Association (NANPA) has unveiled the incredible winning photos from its annual 2027 Showcase. The award-winning images show wildlife doing amazing things, stunning landscapes, and the most beautiful nature from around the world. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/over-50-award-winning-wildlife-and-nature-photos-from-the-2027-nanpa-showcase/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/nanpa-showcase-2027-featured.jpg",
-  "date": "2026-11-09T19:36:25.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
   "topic": "money",
   "source": "The Economist",
@@ -220,17 +352,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/09/short-film-looks-at-the-photographers-shooting-gnarly-mountain-bike-photos/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Short Film Looks at the Photographers Shooting Gnarly Mountain Bike Photos",
-  "snippet": "Red Bull Rampage is one of the most demanding events in mountain biking, but the challenge isn't limited to the riders. Photographers covering the competition must navigate steep, unforgiving terrain while carrying heavy equipment, often with only one opportunity to capture a defining moment. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/short-film-looks-at-the-photographers-shooting-gnarly-mountain-bike-photos/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/REd-Bull-Ramopage-Doc.jpg",
-  "date": "2026-11-09T18:49:55.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -239,17 +360,6 @@
   "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
   "image": "",
   "date": "2026-11-09T18:46:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "How a civil servant got away with juggling five jobs for so long",
-  "snippet": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-  "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-09T18:40:31.000Z",
   "bg": ""
  },
  {
@@ -286,17 +396,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/09/the-go-front-pack-from-moment-always-keeps-your-gear-within-reach/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "The Go Front Pack From Moment Always Keeps Your Gear Within Reach",
-  "snippet": "Moment has announced the Go Front Pack, a small sling bag that the company says was inspired by hydration and running vests. It mounts on the user's chest, giving them immediate access to a phone, lenses, filters, and cables without bouncing when the wearer moves. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/the-go-front-pack-from-moment-always-keeps-your-gear-within-reach/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/The-Go-Front-Pack-From-Moment-Always-Keeps-Your-Gear-Within-Reach.jpg",
-  "date": "2026-11-09T18:00:05.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/editorial/how-i-shot-three-completely-different-portraits-profotos-essential-hybrid-kit-905308?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -305,39 +404,6 @@
   "link": "https://fstoppers.com/editorial/how-i-shot-three-completely-different-portraits-profotos-essential-hybrid-kit-905308?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-profoto-behind-the-scenes-photoshoot.jpg.webp?itok=ZU4d5ePW",
   "date": "2026-11-09T17:56:05.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Civil servant who secretly held five jobs found guilty of fraud",
-  "snippet": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-  "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-  "date": "2026-11-09T17:17:16.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/09/siruis-affordable-aurora-series-goes-wider-with-15mm-f-1-6-and-24mm-f-1-4-primes/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Sirui’s Affordable Aurora Series Goes Wider With 15mm f/1.6 and 24mm f/1.4 Primes",
-  "snippet": "Sirui has announced the Aurora 15mm f/1.6 and 24mm f/1.4 wide-angle lenses for full-frame mirrorless cameras. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/siruis-affordable-aurora-series-goes-wider-with-15mm-f-1-6-and-24mm-f-1-4-primes/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/sirui-aurora-15-24-featured.jpg",
-  "date": "2026-11-09T16:59:52.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Poundland unable to buy new stock as fears over collapse grow",
-  "snippet": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-  "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
-  "date": "2026-11-09T16:46:40.000Z",
   "bg": ""
  },
  {
@@ -350,28 +416,6 @@
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_30.jpg.webp?itok=8KXVY03l",
   "date": "2026-11-09T16:03:02.000Z",
   "bg": "Как да използваш скуката при уличната фотография като предимство."
- },
- {
-  "id": "https://petapixel.com/2026/11/09/new-iphone-and-ipad-app-lets-filmmakers-control-up-to-four-canon-and-sony-cameras-at-once/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "New iPhone and iPad App Lets Filmmakers Control Up to Four Canon and Sony Cameras At Once",
-  "snippet": "Italian filmmaker Claudio Ripalti released Director Mode, a new iPhone and iPad app that lets videographers monitor and control up to four wirelessly connected cameras. As of now, the app works with a wide range of Canon and Sony bodies. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/new-iphone-and-ipad-app-lets-filmmakers-control-up-to-four-canon-and-sony-cameras-at-once/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/director-mode-1.jpg",
-  "date": "2026-11-09T15:57:20.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/09/weather-camera-captures-20-year-timelapse-of-skies-above-new-zealand/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Weather Camera Captures 20-Year Timelapse of Skies Above New Zealand",
-  "snippet": "A New Zealand weather camera has captured a remarkable 20-year time-lapse showing two decades of changing skies over Lower Hutt -- a city close to the capital of Wellington. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/weather-camera-captures-20-year-timelapse-of-skies-above-new-zealand/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Weather-Camera-20-Year-Timelapse.jpg",
-  "date": "2026-11-09T15:00:29.000Z",
-  "bg": ""
  },
  {
   "id": "https://fstoppers.com/education/why-good-lighting-can-still-be-wrong-lighting-905475?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
@@ -440,17 +484,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-  "snippet": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-  "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-  "image": "",
-  "date": "2026-11-06T20:42:28.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -492,17 +525,6 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
   "image": "",
   "date": "2026-11-05T23:41:07.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-  "snippet": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-  "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-  "image": "",
-  "date": "2026-11-05T20:17:16.000Z",
   "bg": ""
  },
  {
@@ -602,28 +624,6 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
   "image": "",
   "date": "2026-11-03T19:06:57.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.printmag.com/daily-heller/the-daily-heller-the-things-i-kept-in-my-months-long-purge-of-things/",
-  "topic": "brand",
-  "source": "Print Magazine",
-  "title": "The Daily Heller: The Things I Kept in During My Months-long Purge",
-  "snippet": "Steven Heller cracks open his journal. The post The Daily Heller: The Things I Kept in During My Months-long Purge appeared first on PRINT Magazine .",
-  "link": "https://www.printmag.com/daily-heller/the-daily-heller-the-things-i-kept-in-my-months-long-purge-of-things/",
-  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/IMG_0182-2.jpeg?resize=868%2C1024&quality=89&ssl=1",
-  "date": "2026-11-03T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.printmag.com/book-club/join-francoise-mouly-at-the-print-book-club/",
-  "topic": "brand",
-  "source": "Print Magazine",
-  "title": "Join Françoise Mouly at The PRINT Book Club",
-  "snippet": "Join Debbie Millman, Steven Heller and Françoise Mouly for an exclusive PRINT Book Club event, November 12th at 4pm ET - register here. The post Join Françoise Mouly at The PRINT Book Club appeared first on PRINT Magazine .",
-  "link": "https://www.printmag.com/book-club/join-francoise-mouly-at-the-print-book-club/",
-  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Headshot-1.png?resize=1000%2C734&quality=80&ssl=1",
-  "date": "2026-11-02T19:00:00.000Z",
   "bg": ""
  },
  {
