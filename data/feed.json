@@ -1,13 +1,277 @@
 [
  {
+  "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+  "snippet": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+  "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg",
+  "date": "2026-11-10T21:06:04.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-holley-stock-rating-to-buy-on-margin-gains-93CH-5016768",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Freedom Broker upgrades Holley stock rating to buy on margin gains",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-holley-stock-rating-to-buy-on-margin-gains-93CH-5016768",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+  "date": "2026-11-10T21:05:10.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/scopien-technologies-acquires-control-of-cannabis-strategic-93CH-5016767",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Scopien Technologies acquires control of Cannabis Strategic",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/scopien-technologies-acquires-control-of-cannabis-strategic-93CH-5016767",
+  "image": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
+  "date": "2026-11-10T21:04:37.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/lattice-and-nxp-launch-pcie-companion-solution-for-industrial-use-93CH-5016765",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Lattice and NXP launch PCIe companion solution for industrial use",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/lattice-and-nxp-launch-pcie-companion-solution-for-industrial-use-93CH-5016765",
+  "image": "https://content-media.investing.com/news/LYNXMPEM1P0ZM_1200_L.jpg",
+  "date": "2026-11-10T21:04:36.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/neuronetics-launches-stock-offering-to-refinance-debt-93CH-5016766",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Neuronetics launches stock offering to refinance debt",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/neuronetics-launches-stock-offering-to-refinance-debt-93CH-5016766",
+  "image": "https://content-media.investing.com/news/LYNXMPEM451IK_1200_L.jpg",
+  "date": "2026-11-10T21:04:36.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/national-cinemedia-ceo-tom-lesinski-to-retire-dec-31-93CH-5016764",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "National CineMedia CEO Tom Lesinski to retire Dec. 31",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/national-cinemedia-ceo-tom-lesinski-to-retire-dec-31-93CH-5016764",
+  "image": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg",
+  "date": "2026-11-10T21:04:35.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-mp-materials-stock-rating-on-valuation-93CH-5016743",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Freedom Broker upgrades MP Materials stock rating on valuation",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-mp-materials-stock-rating-on-valuation-93CH-5016743",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+  "date": "2026-11-10T20:58:58.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/bausch--lomb-stock-hits-52week-high-at-2137-usd-93CH-5016742",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Bausch + Lomb stock hits 52-week high at 21.37 USD",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/bausch--lomb-stock-hits-52week-high-at-2137-usd-93CH-5016742",
+  "image": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
+  "date": "2026-11-10T20:58:07.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/economy-news/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-5013877",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+  "snippet": "",
+  "link": "https://www.investing.com/news/economy-news/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-5013877",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA904Z_L.jpg",
+  "date": "2026-11-10T20:54:49.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "VSCO Updates Its Policy to Explicitly State It Won’t Train AI on Your Photos",
+  "snippet": "In May, VSCO came under scrutiny for wording in its Terms of Use that seemed to give the company permission to use certain user content to develop, train, and improve generative AI or machine learning models. It has now taken the extra step to clarify that it doesn't do that, and won't. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+  "image": "https://petapixel.com/assets/uploads/2026/05/vsco-logo-featured.jpg",
+  "date": "2026-11-10T20:45:13.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+  "topic": "money",
+  "source": "The Economist",
+  "title": "For boomers, economic boom times are over",
+  "snippet": "Across the rich world, the geriatric share of income and wealth is ebbing",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+  "image": "",
+  "date": "2026-11-10T20:28:56.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/rings-ai-powered-drone-automatically-patrols-inside-your-home/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Ring’s AI-Powered Drone Automatically Patrols Inside Your Home",
+  "snippet": "Home security can now fly. Amazon-owned Ring has announced the Ring Drone Cam, a $250 indoor flying security camera designed to automatically patrol a home's interior. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/rings-ai-powered-drone-automatically-patrols-inside-your-home/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/ring_dronecam_lifestyle_close-up-product-shot_1500x1500.jpg",
+  "date": "2026-11-10T20:25:51.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/adobe-camera-raw-19-0-adds-virtual-copies-stacks-and-much-more/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "All of Adobe Camera RAW’s Awesome Updates Adobe Didn’t Mention",
+  "snippet": "The good news keeps coming for photographers using Adobe's software. Alongside big Lightroom Classic updates, Adobe Camera Raw (ACR) has been updated today to version 19.0, ushering in a wide range of tweaks, some of which are major. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/adobe-camera-raw-19-0-adds-virtual-copies-stacks-and-much-more/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/acr-19-6.jpg",
+  "date": "2026-11-10T19:04:46.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-  "snippet": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+  "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+  "snippet": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-  "date": "2026-11-10T14:46:50.000Z",
+  "date": "2026-11-10T17:56:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/adobes-quiet-lightroom-classic-updates-are-a-big-deal-for-photographers/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Adobe’s Quiet Lightroom Classic Updates Are a Big Deal for Photographers",
+  "snippet": "Adobe's MAX press kit focused on just a few updates to Lightroom and gave Lightroom Classic no specific attention, but that doesn't mean that the popular RAW editing and organization app hasn't received big changes. Lightroom Classic 16.0 is here, and it includes a ton of meaningful improvements. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/adobes-quiet-lightroom-classic-updates-are-a-big-deal-for-photographers/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/lrc-16-update-featured.jpg",
+  "date": "2026-11-10T17:40:44.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+  "snippet": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+  "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "image": "",
+  "date": "2026-11-10T17:13:44.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+  "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+  "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
+  "date": "2026-11-10T17:04:55.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/education/problem-trying-make-serious-photography-904864?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "The Problem With Trying to Make 'Serious' Photography",
+  "snippet": "At some point, many photographers encounter the pressure to make work that feels meaningful. It usually starts with an innocent realization that when you look at your catalog, it’s full of disconnected single frames. You have good photos, maybe even great ones, but none form a cohesive story. If you look online, the advice from the broader photo community typically offers a seemingly straightforwa",
+  "link": "https://fstoppers.com/education/problem-trying-make-serious-photography-904864?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/adm_seriousphotography_lead.jpg.webp?itok=lqX-Ej5R",
+  "date": "2026-11-10T17:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/18-stunning-finalists-from-close-up-photographer-of-the-year/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "18 Stunning Finalists From Close-Up Photographer of the Year",
+  "snippet": "The finalists for this year's Close-up Photographer of the Year (CUPOTY) have been announced -- a competition showcasing the very best of close-up, macro and micro photography. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/18-stunning-finalists-from-close-up-photographer-of-the-year/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/CUPOTY-8-Finalists.jpg",
+  "date": "2026-11-10T17:00:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "U.S. gas prices fall below $4 for the first time since July",
+  "snippet": "Americans may finally find some relief at the pump.",
+  "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+  "image": "",
+  "date": "2026-11-10T16:29:09.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/education/why-best-photo-coronation-was-man-bench-905484?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Why the Best Photo From a Coronation Was a Man on a Bench",
+  "snippet": "Street photography runs on moments nobody schedules, which makes it hard to plan for and impossible to fake. How you think about luck shapes where you walk, how long you stay out, and whether you lift the camera when something small happens in front of you. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/why-best-photo-coronation-was-man-bench-905484?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_34.jpg.webp?itok=a19VOrxa",
+  "date": "2026-11-10T16:03:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/you-can-now-buy-beni-the-jumping-robot-cameraman-for-799/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "You Can Now Buy Beni the Jumping Robot Cameraman for $799",
+  "snippet": "Beni, the adorable rolling robot which made waves with tech YouTubers when its beta version was first shown off last July, is now a finished product. Mondo Robotics has announced the robot cameraman is available to purchase today for $799. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/you-can-now-buy-beni-the-jumping-robot-cameraman-for-799/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/You-Can-Now-Buy-Beni-the-Jumping-Robot-Cameraman-for-799.jpg",
+  "date": "2026-11-10T16:00:32.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/peak-designs-expanded-rolling-luggage-series-rethinks-hardshell-suitcases/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Peak Design’s Expanded Rolling Luggage Series ‘Rethinks’ Hardshell Suitcases",
+  "snippet": "Peak Design has expanded its line of Roller Pro rolling luggage to include three new hardshell suitcases called Roller Lite, which appears to be a play on the design's ability to retain hardshell exteriors but with lighter construction than what the style is known for. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/peak-designs-expanded-rolling-luggage-series-rethinks-hardshell-suitcases/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Peak-Designs-Expanded-Roller-Pro-Series-Rethinks-Hardshell-Suitcases.jpg",
+  "date": "2026-11-10T15:36:45.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/10/auras-new-improved-e-paper-picture-frame-looks-like-a-printed-photo/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Aura’s New, Improved E-Paper Picture Frame Looks Like a Printed Photo",
+  "snippet": "Just over a year ago, Aura unveiled its first cord-free e-paper digital picture frame, the 13.3-inch Aura Ink. The company has now introduced the Aura Ink 10\", a smaller e-ink digital frame that builds upon the success and technology of the original Aura Ink 13\". [ Read More ]",
+  "link": "https://petapixel.com/2026/11/10/auras-new-improved-e-paper-picture-frame-looks-like-a-printed-photo/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Aura_Ink_10_3.jpg",
+  "date": "2026-11-10T15:32:39.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+  "snippet": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+  "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+  "date": "2026-11-10T15:10:20.000Z",
   "bg": ""
  },
  {
@@ -22,146 +286,14 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-  "snippet": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-  "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
-  "date": "2026-11-10T14:15:28.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-aviat-networks-misses-q1-2027-profit-view-but-lifts-demand-outlook-93CH-5015886",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: Aviat Networks misses Q1 2027 profit view but lifts demand outlook",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-aviat-networks-misses-q1-2027-profit-view-but-lifts-demand-outlook-93CH-5015886",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-  "date": "2026-11-10T14:14:56.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-tim-sa-q3-2026-misses-estimates-but-shares-rise-93CH-5015885",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: TIM S.A. Q3 2026 misses estimates but shares rise",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tim-sa-q3-2026-misses-estimates-but-shares-rise-93CH-5015885",
-  "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-  "date": "2026-11-10T14:14:52.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/exagen-q3-2026-slides-revenue-hits-record-amid-asp-growth-streak-93CH-5015883",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Exagen Q3 2026 slides: revenue hits record amid ASP growth streak",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/exagen-q3-2026-slides-revenue-hits-record-amid-asp-growth-streak-93CH-5015883",
-  "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
-  "date": "2026-11-10T14:14:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-riachuelo-q3-2026-profit-miss-weighs-on-shares-93CH-5015882",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: Riachuelo Q3 2026 profit miss weighs on shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-riachuelo-q3-2026-profit-miss-weighs-on-shares-93CH-5015882",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-  "date": "2026-11-10T14:13:52.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/hydro-one-q3-2026-slides-rate-base-growth-on-track-despite-cost-pressures-93CH-5015881",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Hydro One Q3 2026 slides: rate base growth on track despite cost pressures",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/hydro-one-q3-2026-slides-rate-base-growth-on-track-despite-cost-pressures-93CH-5015881",
-  "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-  "date": "2026-11-10T14:13:22.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/canaan-q3-2026-slides-selfmining-hits-65-texas-power-projects-advance-93CH-5015880",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Canaan Q3 2026 slides: self-mining hits 65%, Texas power projects advance",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/canaan-q3-2026-slides-selfmining-hits-65-texas-power-projects-advance-93CH-5015880",
-  "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
-  "date": "2026-11-10T14:13:03.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/dropbox-stock-falls-after-pricing-11b-convertible-notes-5015878",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Dropbox stock falls after pricing $1.1B convertible notes",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/dropbox-stock-falls-after-pricing-11b-convertible-notes-5015878",
-  "image": "https://content-media.investing.com/news/LYNXMPEE0A1IA_M.jpg",
-  "date": "2026-11-10T14:12:56.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Wall St set for feeble open after October’s hot inflation print",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA90WK_L.jpg",
-  "date": "2026-11-10T14:12:43.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
+  "id": "https://fstoppers.com/education/roadside-photography-might-be-laziest-way-take-good-photos-905483?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Adobe’s Creative Agent Wants To Do the Photo and Video Editing Tasks You Don’t Want To",
-  "snippet": "Adobe has been developing agentic AI for years, and at this year's Adobe MAX in Miami, it looks like it has finally been fully unleashed. Adobe is ushering in significant expansions to the Adobe Creative Agent, which users can direct using text across not only Adobe's Firefly AI platform but also Creative Cloud apps like Photoshop and Premiere. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/FF-ImageEditor-No-Logo-21.jpg",
-  "date": "2026-11-10T14:00:56.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Premiere Update Brings Color Mode Out of Beta, Plus Generative Video & AI Audio Tools",
-  "snippet": "Adobe is updating Premiere with a ton of AI-based tools and assistance as well as promising a new, wholly revamped approach to color grading. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Premiere-Pro-Updates-Add-AI-Assist-Everywhere-and-Revamps-Color-Grading.jpg",
-  "date": "2026-11-10T14:00:40.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/10/photoshop-now-relights-and-restyles-your-photos-using-ai/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Photoshop Now Relights and Restyles Your Photos Using AI",
-  "snippet": "Today at Adobe MAX 2026 in Miami Beach, Adobe announced a wide range of updates to its core applications and technologies, including Photoshop and Lightroom. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/photoshop-now-relights-and-restyles-your-photos-using-ai/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/PS-Ai-Assisted-Editor-Logo-32.jpg",
-  "date": "2026-11-10T14:00:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/10/leica-unveils-cine-play-1-plus-4k-projector-with-4200-lumens/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Leica Unveils Cine Play 1 Plus 4K Projector With 4,200 Lumens",
-  "snippet": "Leica has announced the Cine Play 1 Plus, an upgraded version of its compact 4K smart projector that increases brightness and contrast compared with its predecessor. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/leica-unveils-cine-play-1-plus-4k-projector-with-4200-lumens/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Leica-Cine1.jpg",
-  "date": "2026-11-10T14:00:01.000Z",
+  "source": "Fstoppers",
+  "title": "Roadside Photography Might Be the Laziest Way to Take Good Photos",
+  "snippet": "Plenty of the scenes worth photographing on any given day slide past your car window at highway speed, and you get a couple of seconds to decide whether to pull over. Most people decide not to, and that small decision repeated over years adds up to a lot of missing frames. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/roadside-photography-might-be-laziest-way-take-good-photos-905483?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_33.jpg.webp?itok=QXwuAVzY",
+  "date": "2026-11-10T14:03:02.000Z",
   "bg": ""
  },
  {
@@ -198,36 +330,36 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/",
+  "id": "https://fstoppers.com/gear/sony-a7r-vis-slower-readout-never-showed-formula-1-race-905482?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Photographer Killed While Capturing Vintage Airplane",
-  "snippet": "A photographer has died after she was struck by a vintage airplane that she was taking pictures of. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Pam-Haselton.jpg",
-  "date": "2026-11-10T11:12:28.000Z",
+  "source": "Fstoppers",
+  "title": "The Sony a7R VI's Slower Readout Never Showed Up at a Formula 1 Race",
+  "snippet": "Sony's a7R VI pairs a 67-megapixel stacked sensor with 30 fps blackout-free shooting and 8K video, yet a lot of the early talk has centered on its readout speed trailing Sony's dedicated speed bodies. If you shoot detailed work but also need a camera that holds up when things move fast, whether that gap ever shows up in your actual photos decides which body goes in your bag. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/gear/sony-a7r-vis-slower-readout-never-showed-formula-1-race-905482?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_32.jpg.webp?itok=zI7qZuTN",
+  "date": "2026-11-10T12:03:02.000Z",
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/10/the-odyssey-has-delivered-record-profits-for-imax/",
+  "id": "https://fstoppers.com/news/zoner-studios-fall-update-adds-37-stackable-presets-and-ai-lab-905486?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
-  "source": "PetaPixel",
-  "title": "‘The Odyssey’ Has Delivered Record Profits for IMAX",
-  "snippet": "IMAX reported its strongest quarterly financial performance in the company’s history last week, with record box office, revenue, and profits for the third quarter of 2026. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/10/the-odyssey-has-delivered-record-profits-for-imax/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/IMAX-Logo.jpg",
-  "date": "2026-11-10T09:59:02.000Z",
+  "source": "Fstoppers",
+  "title": "Zoner Studio's Fall Update Adds 37 Stackable Presets and an AI Lab",
+  "snippet": "Zoner Studio's Fall Update replaces most of the editor's presets with 37 new ones built to be layered. You pick a color grade, add a texture or glow look on top, fix the light, and finish with sharpening or grain, and each step adds to the one before it instead of overwriting it. The update, free for subscribers, also brings an experimental AI Lab with generative tools and finer control over maski",
+  "link": "https://fstoppers.com/news/zoner-studios-fall-update-adds-37-stackable-presets-and-ai-lab-905486?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/zoner-studio-fall-update-lead.jpg.webp?itok=d8aD0naB",
+  "date": "2026-11-10T11:33:01.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-  "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-  "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
-  "date": "2026-11-10T09:57:49.000Z",
+  "id": "https://fstoppers.com/education/25-truths-about-being-photographer-2027-905481?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "25 Truths About Being a Photographer in 2027",
+  "snippet": "Client budgets are tighter, gear and software keep getting pricier, and the playbook that filled a booking calendar in 2019 barely works anymore. If you earn any money from your camera, even a handful of print sales a year, the ground has shifted under how you price, market, and spend your time. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/25-truths-about-being-photographer-2027-905481?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_31.jpg.webp?itok=mp0DtKDh",
+  "date": "2026-11-10T10:03:01.000Z",
   "bg": ""
  },
  {
@@ -242,14 +374,14 @@
   "bg": "Финансовите лидери по света се тревожат най-вече от Китай и изкуствения интелект."
  },
  {
-  "id": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-  "snippet": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-  "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-  "image": "",
-  "date": "2026-11-10T09:00:01.000Z",
+  "id": "https://fstoppers.com/gear/testing-canon-r6-mark-iii-real-world-conditions-905415?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Testing the Canon R6 Mark III in Real-World Conditions",
+  "snippet": "The Canon EOS R6 Mark III is the latest in the R6 lineup, with Canon having updated some photography features while also giving the video side a huge refresh. As somebody who is a heavy hybrid shooter, this camera definitely piqued my interest and had me wanting to give it a closer look. Even finding a rental to get my hands on was a little tricky, but eventually, I managed to scoop one up. Since ",
+  "link": "https://fstoppers.com/gear/testing-canon-r6-mark-iii-real-world-conditions-905415?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/canon-r6-3-review-2-copy.jpg.webp?itok=P1EB_mBD",
+  "date": "2026-11-10T09:03:02.000Z",
   "bg": ""
  },
  {
@@ -275,17 +407,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "The superpower battle over energy – and what it means for your bills",
-  "snippet": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-  "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-10T00:08:28.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/product-design/one-size-fits-men/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -308,17 +429,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/09/promasters-holiday-sale-up-to-30-off-tripods-bags-and-studio-lights/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "ProMaster’s Holiday Sale: Up to 30% Off Tripods, Bags and Studio Lights",
-  "snippet": "ProMaster, a brand known for making quality gear for every kind of creator, is bringing you deals you can’t miss this holiday season. From a multitool tripod and stylish rolltop backpack to a portable studio kit and adaptable softlights, there’s something for everyone (including you!). These products are on sale for a limited time, so shop now to take advantage of the sales and check your favorite",
-  "link": "https://petapixel.com/2026/11/09/promasters-holiday-sale-up-to-30-off-tripods-bags-and-studio-lights/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/promaster-deals-bg-featured.jpg",
-  "date": "2026-11-09T21:30:17.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/designer-interviews/adrienna-matzeg/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -327,17 +437,6 @@
   "link": "https://www.printmag.com/designer-interviews/adrienna-matzeg/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Sweet-as-Suga_1.jpg?resize=1000%2C668&quality=89&ssl=1",
   "date": "2026-11-09T20:10:34.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/09/artizlab-revives-a-leica-classic-for-just-400/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Artizlab Revives a Leica Classic for Just $400",
-  "snippet": "Artizlab has announced the Classic-M 1:1.4/50mm, a new 50mm prime lens that emulates the character and appearance of the classic Leica Summilux 50mm f/1.4 (E43) lens. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/09/artizlab-revives-a-leica-classic-for-just-400/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/ARTizlab-50a.jpg",
-  "date": "2026-11-09T20:07:46.000Z",
   "bg": ""
  },
  {
@@ -363,28 +462,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/apps/peakto-launches-version-30-media-manager-can-handle-millions-assets-905455?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Peakto Launches Version 3.0: A Media Manager That Can Handle Millions of Assets",
-  "snippet": "Peakto has been around for several years. As a Mac-only media manager, it was one of the first to use AI for finding photographs. I've reviewed earlier versions and found it reliable and powerful. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/apps/peakto-launches-version-30-media-manager-can-handle-millions-assets-905455?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/hero.jpg.webp?itok=H8ESsvCS",
-  "date": "2026-11-09T18:20:17.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/gear/sirui-expands-its-full-frame-aurora-lineup-fast-15mm-f16-and-24mm-f14-primes-905453?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Sirui Expands Its Full-Frame Aurora Lineup With Fast 15mm f/1.6 and 24mm f/1.4 Primes",
-  "snippet": "Sirui just added two new additions to its full frame autofocus Aurora lens lineup: the Aurora 15mm f/1.6 ultra-wide lens and the Aurora 24mm f/1.4 wide angle lens. Living up to the Aurora foundation, both lenses combine bright maximum apertures, STM autofocus performance, and dedicated video-friendly ergonomics for hybrid creators.&nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/gear/sirui-expands-its-full-frame-aurora-lineup-fast-15mm-f16-and-24mm-f14-primes-905453?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/layer-3.png.webp?itok=7NgnkrBc",
-  "date": "2026-11-09T18:15:03.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -396,39 +473,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/editorial/how-i-shot-three-completely-different-portraits-profotos-essential-hybrid-kit-905308?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "How I Shot Three Completely Different Portraits With Profoto's Essential Hybrid Kit",
-  "snippet": "A few weeks ago, Profoto challenged me to do a full photo shoot using their new Essential Hybrid Kit. I told them to send it over, and I would use it on a real shoot. In this article and the video above, I'm going to show you exactly how I used this kit and take you behind the scenes on how I mixed constant light with flash to create the final images. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/editorial/how-i-shot-three-completely-different-portraits-profotos-essential-hybrid-kit-905308?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-profoto-behind-the-scenes-photoshoot.jpg.webp?itok=ZU4d5ePW",
-  "date": "2026-11-09T17:56:05.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/street/week-street-photography-porto-and-lisbon-leica-q3-43-905476?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "A Week of Street Photography in Porto and Lisbon With a Leica Q3 43",
-  "snippet": "A week of travel built around the Leica Q3 43 and its fixed lens puts every framing decision on your feet and your patience. Porto and Lisbon push that setup hard, with steep streets, tiled facades, river light, and weather that can swing from blue sky to downpour within a day. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/street/week-street-photography-porto-and-lisbon-leica-q3-43-905476?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_30.jpg.webp?itok=8KXVY03l",
-  "date": "2026-11-09T16:03:02.000Z",
-  "bg": "Как да използваш скуката при уличната фотография като предимство."
- },
- {
-  "id": "https://fstoppers.com/education/why-good-lighting-can-still-be-wrong-lighting-905475?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Why Good Lighting Can Still Be the Wrong Lighting",
-  "snippet": "A matte black, ridged Tom Ford fragrance bottle and a Clinique moisturizer on pure white can both be lit cleanly and still fail if the light tells the wrong story about the product. Every lighting choice you make, from shadow density to color, pushes a viewer toward a feeling, whether you planned it or not. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/why-good-lighting-can-still-be-wrong-lighting-905475?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_29.jpg.webp?itok=sj2KA3s-",
-  "date": "2026-11-09T14:03:02.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/daily-heller/the-daily-heller-bring-in-the-comics/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -437,28 +481,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-bring-in-the-comics/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/IMG_0065-2-scaled.jpeg?resize=1000%2C451&quality=89&ssl=1",
   "date": "2026-11-09T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/film/story-one-most-famous-photos-ever-904463?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "The Story of One of the Most Famous Photos Ever",
-  "snippet": "In January 1996, Charles O'Rear pulled onto the shoulder of California State Route 121 in southern Sonoma County, pushed a Mamiya RZ67 through a wire fence, and made a few exposures of a bare green hill. The film in the back was Fujichrome Velvia, an ISO 50 transparency stock. Two years later, that frame was sitting on a Corbis stock catalog disc as image 71810, with a copyright bar across the bot",
-  "link": "https://fstoppers.com/film/story-one-most-famous-photos-ever-904463?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/windows-xp-wallpaper-velvia-rz67-bliss-hill-today.jpg.webp?itok=PGCuaxF_",
-  "date": "2026-11-08T22:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/how-build-serious-photo-series-905140?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "How to Build a 'Serious' Photo Series",
-  "snippet": "In the first part of this series, I looked at why trying to define a heavy conceptual theme before taking a picture usually leads straight to creative paralysis. Holding onto a loose constraint or a wide idea gives you room to react in the field, but it leaves an obvious question: if you don’t define the story beforehand, how does a coherent series actually come together? [ Read More ]",
-  "link": "https://fstoppers.com/education/how-build-serious-photo-series-905140?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/20260613-downtownchicago-027.jpg.webp?itok=zldlOUHQ",
-  "date": "2026-11-08T17:03:02.000Z",
   "bg": ""
  },
  {
@@ -492,17 +514,6 @@
   "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
   "image": "",
   "date": "2026-11-06T19:05:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-  "snippet": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-  "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-  "image": "",
-  "date": "2026-11-06T17:09:53.000Z",
   "bg": ""
  },
  {
@@ -613,17 +624,6 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
   "image": "",
   "date": "2026-11-03T20:48:59.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-  "topic": "money",
-  "source": "The Economist",
-  "title": "America’s renters are in serious trouble",
-  "snippet": "Several gauges of their financial health are flashing red",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
-  "image": "",
-  "date": "2026-11-03T19:06:57.000Z",
   "bg": ""
  },
  {
