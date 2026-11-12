@@ -1,5 +1,93 @@
 [
  {
+  "id": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Nvidia board meets to decide CEO Huang’s future as leadership crisis deepens",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAA1ZO_L.jpg",
+  "date": "2026-11-12T07:00:40.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/megaspeeds-links-to-rural-australian-store-raise-fresh-questions-in-nvidia-scandal-5020467",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Megaspeed’s links to rural Australian store raise fresh questions in Nvidia scandal",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/megaspeeds-links-to-rural-australian-store-raise-fresh-questions-in-nvidia-scandal-5020467",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAB0JF_L.jpg",
+  "date": "2026-11-12T07:00:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/earnings/allegro-raises-fy-profit-outlook-on-inpost-deal-faster-polish-sales-growth-5020466",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Allegro raises FY profit outlook on InPost deal, faster Polish sales growth",
+  "snippet": "",
+  "link": "https://www.investing.com/news/earnings/allegro-raises-fy-profit-outlook-on-inpost-deal-faster-polish-sales-growth-5020466",
+  "image": "https://content-media.investing.com/news/Allegro_800x533_L_1611940795.jpg",
+  "date": "2026-11-12T07:00:26.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-071-5020465",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Japan stocks lower at close of trade; Nikkei 225 down 0.71%",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-071-5020465",
+  "image": "https://content-media.investing.com/news/LYNXMPEB40170_M.jpg",
+  "date": "2026-11-12T07:00:06.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/cmr-green-technologies-q2-fy27-slides-59-revenue-surge-capacity-expansion-93CH-5020464",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "CMR Green Technologies Q2 FY27 slides: 59% revenue surge, capacity expansion",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/cmr-green-technologies-q2-fy27-slides-59-revenue-surge-capacity-expansion-93CH-5020464",
+  "image": "https://content-media.investing.com/news/LYNXMPEM502AK_1200_L.jpg",
+  "date": "2026-11-12T06:56:55.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/coromandel-q2-fy27-slides-revenue-rises-7-as-margins-compress-93CH-5020463",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Coromandel Q2 FY27 slides: revenue rises 7% as margins compress",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/coromandel-q2-fy27-slides-revenue-rises-7-as-margins-compress-93CH-5020463",
+  "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+  "date": "2026-11-12T06:56:29.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/economy-news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate-5020170",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Asian stocks tumble, Nvidia stings as board to decide CEO’s fate",
+  "snippet": "",
+  "link": "https://www.investing.com/news/economy-news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate-5020170",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAB05E_L.jpg",
+  "date": "2026-11-12T06:54:22.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-suprajit-engineering-beats-q2-2026-estimates-93CH-5020462",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Earnings call transcript: Suprajit Engineering beats Q2 2026 estimates",
+  "snippet": "",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-suprajit-engineering-beats-q2-2026-estimates-93CH-5020462",
+  "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+  "date": "2026-11-12T06:52:28.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -7,7 +95,40 @@
   "snippet": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-  "date": "2026-11-11T21:48:33.000Z",
+  "date": "2026-11-12T00:49:05.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "From Paris to DC - why offices are being turned into apartments",
+  "snippet": "Office buildings with low occupancy rates are being transformed into flats.",
+  "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
+  "date": "2026-11-12T00:05:40.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Some under-25s should get fewer benefits, Milburn review to say",
+  "snippet": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+  "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+  "date": "2026-11-11T23:22:04.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/11/plan-ahead-seven-places-to-point-your-camera-in-2028/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Plan Ahead: Seven Places to Point Your Camera in 2028",
+  "snippet": "What makes a great photography adventure? People travel with their cameras for different reasons. For some, travel itself is the main attraction, with photography opening the door to longer, richer experiences. For others, it is the chance to develop new skills by photographing new landscapes, wildlife, or cultures around the world. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/11/plan-ahead-seven-places-to-point-your-camera-in-2028/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Muench-Plan-Ahead-2028-Featured-Image.jpg",
+  "date": "2026-11-11T21:56:18.000Z",
   "bg": ""
  },
  {
@@ -22,28 +143,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/transcripts/oruka-therapeutics-at-stifel-2026-healthcare-conference-2026-annual-dosing-push-93CH-5019905",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Oruka Therapeutics at Stifel 2026 Healthcare Conference 2026: annual dosing push",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/oruka-therapeutics-at-stifel-2026-healthcare-conference-2026-annual-dosing-push-93CH-5019905",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-  "date": "2026-11-11T21:43:18.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/zentalis-at-stifel-2026-healthcare-conference-dual-path-for-azenosertib-93CH-5019904",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Zentalis at Stifel 2026 Healthcare Conference: dual path for azenosertib",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/zentalis-at-stifel-2026-healthcare-conference-dual-path-for-azenosertib-93CH-5019904",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-  "date": "2026-11-11T21:42:31.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -52,72 +151,6 @@
   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
   "date": "2026-11-11T21:42:20.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/tectonic-therapeutics-at-stifel-2026-healthcare-conference-2027-catalyst-push-93CH-5019903",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Tectonic Therapeutics at Stifel 2026 Healthcare Conference: 2027 catalyst push",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/tectonic-therapeutics-at-stifel-2026-healthcare-conference-2027-catalyst-push-93CH-5019903",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-11-11T21:42:10.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/caretrust-reit-launches-17-million-share-public-offering-93CH-5019902",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "CareTrust REIT launches 17 million share public offering",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/caretrust-reit-launches-17-million-share-public-offering-93CH-5019902",
-  "image": "https://content-media.investing.com/news/LYNXMPEM1O173_1200_L.jpg",
-  "date": "2026-11-11T21:40:31.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/warburg-pincus-targets-5-billion-for-second-capital-solutions-fund--bloomberg-93CH-5019900",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Warburg Pincus targets $5 billion for second Capital Solutions fund - Bloomberg",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/warburg-pincus-targets-5-billion-for-second-capital-solutions-fund--bloomberg-93CH-5019900",
-  "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-  "date": "2026-11-11T21:37:19.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/earnings/ezcorp-earnings-beat-by-001-revenue-topped-estimates-5019899",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Ezcorp earnings beat by $0.01, revenue topped estimates",
-  "snippet": "",
-  "link": "https://www.investing.com/news/earnings/ezcorp-earnings-beat-by-001-revenue-topped-estimates-5019899",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-  "date": "2026-11-11T21:33:29.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/earnings/pixelworks-earnings-missed-by-024-revenue-topped-estimates-5019898",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Pixelworks earnings missed by $0.24, revenue topped estimates",
-  "snippet": "",
-  "link": "https://www.investing.com/news/earnings/pixelworks-earnings-missed-by-024-revenue-topped-estimates-5019898",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-  "date": "2026-11-11T21:32:41.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-048-5019892",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.48%",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-048-5019892",
-  "image": "https://content-media.investing.com/news/LYNXNPEE841AZ_M.jpg",
-  "date": "2026-11-11T21:31:01.000Z",
   "bg": ""
  },
  {
@@ -286,17 +319,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Robot vessels take on the dangerous work of mine hunting",
-  "snippet": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-  "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-11T00:19:13.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
@@ -305,17 +327,6 @@
   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
   "date": "2026-11-10T22:52:15.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/10/inside-om-digital-solutions-okaya-manufacturing-site/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Inside OM Digital Solutions’ Okaya Manufacturing Site",
-  "snippet": "I know how to take pictures, but ask me how the lens on my camera is made and I have a lot less to say. A visit to the Okaya Manufacturing Site in Japan, followed by some research afterward, gave me a lesson in a subject I’d never understood particularly well. I wanted to understand how the glass inside a lens is crafted, how the tools used in that process are prepared, and how people learn to do ",
-  "link": "https://petapixel.com/2026/11/10/inside-om-digital-solutions-okaya-manufacturing-site/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/OM-SYSTEM-Okaya-Manufacturing-Site-Cover-2.jpg",
-  "date": "2026-11-10T22:34:55.000Z",
   "bg": ""
  },
  {
@@ -371,17 +382,6 @@
   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
   "image": "",
   "date": "2026-11-10T17:13:44.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-  "snippet": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-  "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
-  "date": "2026-11-10T17:04:55.000Z",
   "bg": ""
  },
  {
