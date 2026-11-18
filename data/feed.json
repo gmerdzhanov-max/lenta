@@ -1,101 +1,167 @@
 [
  {
-  "id": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "id": "https://www.investing.com/news/stock-market-news/ubs-sees-ftse-100-at-11500-by-end2027-as-earnings-and-growth-hold-firm-5035497",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "UBS sees FTSE 100 at 11,500 by end-2027 as earnings and growth hold firm",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/ubs-sees-ftse-100-at-11500-by-end2027-as-earnings-and-growth-hold-firm-5035497",
+  "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+  "date": "2026-11-18T11:15:07.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/susquehanna-reiterates-positive-rating-on-nvidia-stock-at-275-93CH-5035495",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Susquehanna reiterates Positive rating on Nvidia stock at $275",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/susquehanna-reiterates-positive-rating-on-nvidia-stock-at-275-93CH-5035495",
+  "image": "https://content-media.investing.com/news/moved_LYNXNPEL0S0UG_L.jpg",
+  "date": "2026-11-18T11:14:55.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-jdcom-stock-price-target-on-weak-retail-data-93CH-5035494",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Bernstein SocGen cuts JD.com stock price target on weak retail data",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bernstein-socgen-cuts-jdcom-stock-price-target-on-weak-retail-data-93CH-5035494",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+  "date": "2026-11-18T11:14:53.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bofa-cuts-enovix-stock-rating-on-strategy-shift-lowers-target-to-1-93CH-5035492",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "BofA cuts Enovix stock rating on strategy shift, lowers target to $1",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bofa-cuts-enovix-stock-rating-on-strategy-shift-lowers-target-to-1-93CH-5035492",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+  "date": "2026-11-18T11:14:47.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/bernstein-raises-home-depot-stock-price-target-on-share-gains-93CH-5035493",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Bernstein raises Home Depot stock price target on share gains",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/bernstein-raises-home-depot-stock-price-target-on-share-gains-93CH-5035493",
+  "image": "https://content-media.investing.com/news/LYNXMPEB4I0EL_M.jpg",
+  "date": "2026-11-18T11:14:47.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/susquehanna-lowers-baidu-stock-price-target-to-75-on-ad-pressure-93CH-5035491",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Susquehanna lowers Baidu stock price target to $75 on ad pressure",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/susquehanna-lowers-baidu-stock-price-target-to-75-on-ad-pressure-93CH-5035491",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+  "date": "2026-11-18T11:14:45.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/lowes-beats-third-quarter-estimates-on-strong-sales-growth-5035490",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Lowe’s beats third quarter estimates on strong sales growth",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/lowes-beats-third-quarter-estimates-on-strong-sales-growth-5035490",
+  "image": "https://content-media.investing.com/news/Lowes_800x533_L_1629566278.jpg",
+  "date": "2026-11-18T11:13:53.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/lowes-raises-annual-sales-forecast-5035489",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Lowe’s raises annual sales forecast",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/lowes-raises-annual-sales-forecast-5035489",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAH11L_L.jpg",
+  "date": "2026-11-18T11:13:35.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/18/the-best-photos-from-nasas-voyager-1-spacecraft-which-is-now-1-light-day-from-earth/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "The Best Photos From NASA’s Voyager 1 Spacecraft, Which Is Now 1 Light-Day From Earth",
+  "snippet": "NASA's Voyager 1 spacecraft, which launched on September 5, 1977, is officially one light-day away from Earth. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/18/the-best-photos-from-nasas-voyager-1-spacecraft-which-is-now-1-light-day-from-earth/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/voyager-1-light-day-featured.jpg",
+  "date": "2026-11-18T10:16:31.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-  "snippet": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-  "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
-  "date": "2026-11-18T02:40:45.000Z",
+  "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+  "snippet": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+  "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/d7b747f0-e339-11f1-a094-5fdc692f3e33.jpg",
+  "date": "2026-11-18T10:10:12.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-319055-in-ellsworth-growth--income-fund-93CH-5034557",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Saba Capital Management buys $319,055 in Ellsworth Growth & Income Fund",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-319055-in-ellsworth-growth--income-fund-93CH-5034557",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-11-18T02:32:02.000Z",
+  "id": "https://fstoppers.com/education/why-your-portraits-look-soft-even-great-gear-905572?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Why Your Portraits Look Soft Even With Great Gear",
+  "snippet": "Soft eyes, a face that's slightly blurred, and skin that looks a little green in Lightroom are easy to overlook on a rear screen and hard to ignore once you're editing at full size. Most of those problems trace back to a handful of settings you choose before the shutter fires, plus one dropdown menu you may never have touched after import. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/education/why-your-portraits-look-soft-even-great-gear-905572?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_63.jpg.webp?itok=IkCaj37L",
+  "date": "2026-11-18T10:03:02.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/meiragtx-president--ceo-forbes-sells-523899-in-shares-93CH-5034556",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "MeiraGTx president & CEO Forbes sells $523,899 in shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/meiragtx-president--ceo-forbes-sells-523899-in-shares-93CH-5034556",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-  "date": "2026-11-18T02:31:03.000Z",
+  "id": "https://petapixel.com/2026/11/18/national-geographic-reveals-its-pictures-of-the-year-for-2026/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "National Geographic Reveals its Pictures of the Year for 2026",
+  "snippet": "National Geographic has unveiled its Pictures of the Year 2026, a collection of 25 extraordinary photographs revealing the moments, discoveries, and untold stories that defined the past year. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/18/national-geographic-reveals-its-pictures-of-the-year-for-2026/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Nat-Geo-Pictures-of-the-Year.jpg",
+  "date": "2026-11-18T09:43:29.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/donnelley-financial-dfin-ceo-leib-sells-339m-shares-93CH-5034555",
+  "id": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Donnelley Financial (DFIN) CEO Leib sells $3.39M shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/donnelley-financial-dfin-ceo-leib-sells-339m-shares-93CH-5034555",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-  "date": "2026-11-18T02:31:01.000Z",
+  "source": "BBC Business",
+  "title": "Security flaw found in Java, world's third-largest programming language",
+  "snippet": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+  "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
+  "date": "2026-11-18T08:47:06.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-2080-of-gabelli-healthcare--wellnessrx-trust-93CH-5034554",
+  "id": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Saba Capital Management buys $2,080 of Gabelli Healthcare & WellnessRx Trust",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-2080-of-gabelli-healthcare--wellnessrx-trust-93CH-5034554",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-  "date": "2026-11-18T02:30:50.000Z",
+  "source": "CNBC Markets",
+  "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+  "snippet": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+  "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+  "image": "",
+  "date": "2026-11-18T08:29:35.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/earnings/gladstone-capital-earnings-beat-by-001-revenue-fell-short-of-estimates-5034548",
+  "id": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Gladstone Capital earnings beat by $0.01, revenue fell short of estimates",
-  "snippet": "",
-  "link": "https://www.investing.com/news/earnings/gladstone-capital-earnings-beat-by-001-revenue-fell-short-of-estimates-5034548",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-  "date": "2026-11-18T02:20:49.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Oil prices fall as higher US crude stocks temper supply risks",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAH05V_L.jpg",
-  "date": "2026-11-18T02:18:22.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-nvidia-stock-buy-rating-on-raised-2027-guidance-93CH-5034543",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Goldman Sachs reiterates Nvidia stock buy rating on raised 2027 guidance",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-nvidia-stock-buy-rating-on-raised-2027-guidance-93CH-5034543",
-  "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
-  "date": "2026-11-18T02:16:49.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/gilead-sciences-chief-comm--corp-aff-officer-mercier-sells-47m-shares-93CH-5034542",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Gilead Sciences chief comm & corp aff officer Mercier sells $4.7M shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/gilead-sciences-chief-comm--corp-aff-officer-mercier-sells-47m-shares-93CH-5034542",
-  "image": "https://content-media.investing.com/news/Gilead_800x533_L_1598282999.jpg",
-  "date": "2026-11-18T02:16:21.000Z",
+  "source": "CNBC Markets",
+  "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+  "snippet": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+  "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+  "image": "",
+  "date": "2026-11-18T06:18:11.000Z",
   "bg": ""
  },
  {
@@ -106,14 +172,47 @@
   "snippet": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
   "image": "",
-  "date": "2026-11-18T01:23:29.000Z",
+  "date": "2026-11-18T06:04:39.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "How important are Nvidia and Jensen Huang to the US economy?",
+  "snippet": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+  "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+  "date": "2026-11-18T06:04:21.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+  "snippet": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+  "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+  "date": "2026-11-18T04:00:54.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/news/ron-howards-richard-avedon-documentary-now-streaming-netflix-905570?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Ron Howard's Richard Avedon Documentary Is Now Streaming on Netflix",
+  "snippet": "Avedon , Ron Howard's feature documentary about the photographer Richard Avedon, is now streaming on Netflix after premiering at the Cannes Film Festival in May. It's built from the Richard Avedon Foundation's archive, with previously unseen photographs, footage of Avedon at work, and new interviews with the people who knew him best. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/news/ron-howards-richard-avedon-documentary-now-streaming-netflix-905570?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/netflix-avedon-ron-howard-lead.jpg.webp?itok=Frqhaj3L",
+  "date": "2026-11-18T03:38:08.000Z",
   "bg": ""
  },
  {
   "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+  "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
   "snippet": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
@@ -129,28 +228,6 @@
   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
   "date": "2026-11-18T00:00:24.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-  "snippet": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-  "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-  "image": "",
-  "date": "2026-11-17T23:30:13.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-  "snippet": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-  "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
-  "date": "2026-11-17T23:02:12.000Z",
   "bg": ""
  },
  {
@@ -231,17 +308,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-  "snippet": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-  "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-  "date": "2026-11-17T18:24:21.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
   "topic": "money",
   "source": "The Economist",
@@ -308,17 +374,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/17/xiaomis-eye-catching-pro-series-phones-go-global-for-the-first-time/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Xiaomi’s Eye-Catching Pro Series Phones Go Global for the First Time",
-  "snippet": "Xiaomi officially released its 18 Pro Series phones, the 18 Pro and 18 Pro Max, at a launch event in Paris, marking the first time it’s pushing its Pro models outside of China. That also makes them outliers in another respect: they are rare slab smartphones with two displays. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/17/xiaomis-eye-catching-pro-series-phones-go-global-for-the-first-time/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Xiaomi-18-Pro-Series-launch-Back-Display-selfie.jpg",
-  "date": "2026-11-17T14:30:40.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/education/why-theres-no-best-portrait-lighting-setup-and-what-decide-instead-905562?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -341,17 +396,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/17/panasonic-lumix-shx1-review-the-s1-ii-in-boxy-clothes/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Panasonic Lumix SHX1 Review: The S1 II in Boxy Clothes",
-  "snippet": "When the Panasonic S1 II was announced, one of my first thoughts was, “How are they going to top this with an S1H II?” The answer was, they didn’t. Instead, Panasonic is bringing the internals of the S1 II to a new form factor, a cinema box camera, and calling it the SHX1 ($4,699). [ Read More ]",
-  "link": "https://petapixel.com/2026/11/17/panasonic-lumix-shx1-review-the-s1-ii-in-boxy-clothes/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/Panasonic-Lumix-SHX1-Review-The-S1-II-in-Boxy-Clothes.jpg",
-  "date": "2026-11-17T14:01:42.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/what-matters/what-matters-to-colleen-haynes/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -360,17 +404,6 @@
   "link": "https://www.printmag.com/what-matters/what-matters-to-colleen-haynes/",
   "image": "",
   "date": "2026-11-17T14:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Where are the most jobs for 18-24 year-olds?",
-  "snippet": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-  "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-  "date": "2026-11-17T12:35:53.000Z",
   "bg": ""
  },
  {
@@ -407,17 +440,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/lightroom/lightroom-classic-still-necessary-adobes-latest-update-raises-question-905538?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Is Lightroom Classic Still Necessary? Adobe's Latest Update Raises the Question",
-  "snippet": "For decades now, tethering has been the stepchild of the industry. It has felt more like an afterthought than an actual feature. Software was buggy, and crashes were frequent. Our cameras were connected by a Micro-USB Type-B cable that was prone to falling out with the slightest movement of the camera. Using a heavy, dedicated orange cable only seemed to make matters worse. As more users seek to t",
-  "link": "https://fstoppers.com/lightroom/lightroom-classic-still-necessary-adobes-latest-update-raises-question-905538?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/danna-0058.jpg.webp?itok=xvL27VIk",
-  "date": "2026-11-17T02:25:14.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -448,17 +470,6 @@
   "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
   "image": "",
   "date": "2026-11-16T22:14:47.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/what-micro-contrast-actually-means-904519?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "What Micro-Contrast Actually Means",
-  "snippet": "Micro-contrast has no standardized definition, and the most careful published one is perceptual rather than numerical: Zeiss's own Hubert Nasse describes it as the contrast in structures you can just about see, or just cannot quite see, with the naked eye. The number that stands in for it on a data sheet is contrast at 40 line pairs per millimeter, which is a proxy for that band rather than a defi",
-  "link": "https://fstoppers.com/education/what-micro-contrast-actually-means-904519?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/what-micro-contrast-actually-means-lead-pittsburgh-skyline.jpg.webp?itok=95F9qLI4",
-  "date": "2026-11-16T22:03:01.000Z",
   "bg": ""
  },
  {
@@ -503,17 +514,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-what-is-portraiture-digital/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/snowden-archive.gif?resize=1000%2C1000&ssl=1",
   "date": "2026-11-16T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-  "snippet": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-  "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-  "image": "",
-  "date": "2026-11-16T03:53:59.000Z",
   "bg": ""
  },
  {
