@@ -1,9 +1,240 @@
 [
  {
+  "id": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+  "snippet": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+  "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
+  "date": "2026-11-18T02:40:45.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-319055-in-ellsworth-growth--income-fund-93CH-5034557",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Saba Capital Management buys $319,055 in Ellsworth Growth & Income Fund",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-319055-in-ellsworth-growth--income-fund-93CH-5034557",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+  "date": "2026-11-18T02:32:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/meiragtx-president--ceo-forbes-sells-523899-in-shares-93CH-5034556",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "MeiraGTx president & CEO Forbes sells $523,899 in shares",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/meiragtx-president--ceo-forbes-sells-523899-in-shares-93CH-5034556",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+  "date": "2026-11-18T02:31:03.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/donnelley-financial-dfin-ceo-leib-sells-339m-shares-93CH-5034555",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Donnelley Financial (DFIN) CEO Leib sells $3.39M shares",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/donnelley-financial-dfin-ceo-leib-sells-339m-shares-93CH-5034555",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+  "date": "2026-11-18T02:31:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-2080-of-gabelli-healthcare--wellnessrx-trust-93CH-5034554",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Saba Capital Management buys $2,080 of Gabelli Healthcare & WellnessRx Trust",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-2080-of-gabelli-healthcare--wellnessrx-trust-93CH-5034554",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+  "date": "2026-11-18T02:30:50.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/earnings/gladstone-capital-earnings-beat-by-001-revenue-fell-short-of-estimates-5034548",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Gladstone Capital earnings beat by $0.01, revenue fell short of estimates",
+  "snippet": "",
+  "link": "https://www.investing.com/news/earnings/gladstone-capital-earnings-beat-by-001-revenue-fell-short-of-estimates-5034548",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+  "date": "2026-11-18T02:20:49.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Oil prices fall as higher US crude stocks temper supply risks",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAH05V_L.jpg",
+  "date": "2026-11-18T02:18:22.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-nvidia-stock-buy-rating-on-raised-2027-guidance-93CH-5034543",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Goldman Sachs reiterates Nvidia stock buy rating on raised 2027 guidance",
+  "snippet": "",
+  "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-nvidia-stock-buy-rating-on-raised-2027-guidance-93CH-5034543",
+  "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+  "date": "2026-11-18T02:16:49.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/gilead-sciences-chief-comm--corp-aff-officer-mercier-sells-47m-shares-93CH-5034542",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Gilead Sciences chief comm & corp aff officer Mercier sells $4.7M shares",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/gilead-sciences-chief-comm--corp-aff-officer-mercier-sells-47m-shares-93CH-5034542",
+  "image": "https://content-media.investing.com/news/Gilead_800x533_L_1598282999.jpg",
+  "date": "2026-11-18T02:16:21.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "Three things to watch as Trump, Xi and Putin meet in China",
+  "snippet": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+  "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+  "image": "",
+  "date": "2026-11-18T01:23:29.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+  "snippet": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+  "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+  "date": "2026-11-18T01:18:18.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Europe plans to catch the next computer chip wave",
+  "snippet": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+  "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+  "date": "2026-11-18T00:00:24.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+  "snippet": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+  "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+  "image": "",
+  "date": "2026-11-17T23:30:13.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+  "snippet": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+  "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+  "date": "2026-11-17T23:02:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/17/the-trmnl-frame-is-a-gorgeous-31-5-inch-epaper-picture-frame/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "The TRMNL Frame Is a Gorgeous 31.5-Inch ePaper Picture Frame",
+  "snippet": "TRMNL, best known for its ePaper screens, is launching a new product that photographers may find particularly appealing. TRMNL Frame is the company's biggest product to date: a 31.5-inch ePaper display built for showcasing art, including photography, in style. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/17/the-trmnl-frame-is-a-gorgeous-31-5-inch-epaper-picture-frame/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Screenshot-2026-11-17-at-17.41.39.jpg",
+  "date": "2026-11-17T22:48:59.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/historical/1839-philadelphian-took-one-first-selfies-ever-made-904535?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "In 1839, a Philadelphian Took One of the First Selfies Ever Made",
+  "snippet": "A young man with tousled hair, a popped collar, and his arms loosely folded stares just past the lens, caught mid-thought in the daylight of a Philadelphia backyard. The plate is a daguerreotype, made in the fall of 1839, and it is one of the oldest surviving photographic portraits taken in the United States. The person who made it and the person in it are the same man, which makes it something el",
+  "link": "https://fstoppers.com/historical/1839-philadelphian-took-one-first-selfies-ever-made-904535?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/cornelius-self-portrait-1839-lead.jpg.webp?itok=IyCV9AHe",
+  "date": "2026-11-17T22:03:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/17/a-portrait-photographer-puts-6-common-ai-retouching-myths-to-the-test/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "A Portrait Photographer Puts 6 Common AI Retouching Myths to the Test",
+  "snippet": "Photographers have plenty of reasons to distrust automatic retouching. We asked Joe Fraga, a portrait photographer in Salvador, Brazil, to test six of the most common ones on real client work and see which still hold up. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/17/a-portrait-photographer-puts-6-common-ai-retouching-myths-to-the-test/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/reblum-featured.jpg",
+  "date": "2026-11-17T21:56:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Speed camera fault may have allowed drivers to escape fines",
+  "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+  "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
+  "date": "2026-11-17T20:04:54.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://petapixel.com/2026/11/17/photographer-captures-eerie-images-of-looming-data-centers-in-virginia/",
+  "topic": "photo",
+  "source": "PetaPixel",
+  "title": "Photographer Captures Eerie Images of Looming Data Centers in Virginia",
+  "snippet": "A photographer has set about documenting data centers in northern Virginia -- an area that has the highest concentration of data centers in the world. [ Read More ]",
+  "link": "https://petapixel.com/2026/11/17/photographer-captures-eerie-images-of-looming-data-centers-in-virginia/",
+  "image": "https://petapixel.com/assets/uploads/2026/11/Stephen-Voss-Data-Centers.jpg",
+  "date": "2026-11-17T19:30:23.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Government backs welfare shake-up to prevent 'lost generation'",
+  "snippet": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+  "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+  "date": "2026-11-17T18:43:05.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+  "topic": "money",
+  "source": "The Economist",
+  "title": "Why startups still go public, eventually",
+  "snippet": "Costly regulation is not a big deterrent to IPOs",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+  "image": "",
+  "date": "2026-11-17T18:38:26.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
   "source": "BBC Business",
-  "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+  "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
   "snippet": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
@@ -11,91 +242,25 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/company-news/linxon-and-fluence-partner-on-energy-storage-projects-93CH-5033758",
+  "id": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Linxon and Fluence partner on energy storage projects",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/linxon-and-fluence-partner-on-energy-storage-projects-93CH-5033758",
-  "image": "https://content-media.investing.com/news/LYNXMPEM4P18K_1200_L.jpg",
-  "date": "2026-11-17T18:12:38.000Z",
+  "source": "The Economist",
+  "title": "Does Donald Trump care about the economy?",
+  "snippet": "His economic advisers have gone missing after a bruising midterm defeat",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/17/does-donald-trump-care-about-the-economy",
+  "image": "",
+  "date": "2026-11-17T17:54:03.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/nvidia-taps-heidrick--struggles-to-lead-ceo-search-wsj-reports-5033757",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/nvidia-taps-heidrick--struggles-to-lead-ceo-search-wsj-reports-5033757",
-  "image": "https://content-media.investing.com/news/moved_LYNXNPEK330I8_L.jpg",
-  "date": "2026-11-17T18:11:37.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/openai-releases-updated-astra-ai-model-with-new-safeguards-5033754",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "OpenAI releases updated Astra AI model with new safeguards",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/openai-releases-updated-astra-ai-model-with-new-safeguards-5033754",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEJ150SL_L.jpg",
-  "date": "2026-11-17T18:07:33.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/exclusivegm-plans-20-boost-in-robotics-as-factory-costs-rise-5032317",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/exclusivegm-plans-20-boost-in-robotics-as-factory-costs-rise-5032317",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAG0XJ_L.jpg",
-  "date": "2026-11-17T18:07:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/four-us-activist-hedge-funds-exit-dicks-sporting-goods-in-third-quarter-amid-profit-woes-5031506",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Four US activist hedge funds exit Dick’s Sporting Goods in third quarter amid profit woes",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/four-us-activist-hedge-funds-exit-dicks-sporting-goods-in-third-quarter-amid-profit-woes-5031506",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAG04Q_L.jpg",
-  "date": "2026-11-17T18:06:25.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-cloudastructure-posts-q3-2026-revenue-growth-as-shares-sink-93CH-5033752",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: Cloudastructure posts Q3 2026 revenue growth as shares sink",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cloudastructure-posts-q3-2026-revenue-growth-as-shares-sink-93CH-5033752",
-  "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-  "date": "2026-11-17T18:04:57.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/company-news/cimpress-nv-stock-hits-52week-low-at-5375-usd-93CH-5033750",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Cimpress NV stock hits 52-week low at 53.75 USD",
-  "snippet": "",
-  "link": "https://www.investing.com/news/company-news/cimpress-nv-stock-hits-52week-low-at-5375-usd-93CH-5033750",
-  "image": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-  "date": "2026-11-17T18:03:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/transcripts/paychex-at-jp-morgan-conference-shift-to-peo-gains-momentum-93CH-5033749",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Paychex at J.P. Morgan conference: shift to pEO gains momentum",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/paychex-at-jp-morgan-conference-shift-to-peo-gains-momentum-93CH-5033749",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-11-17T18:02:16.000Z",
+  "id": "https://fstoppers.com/artificial-intelligence/imagens-newest-update-lets-edit-voice-or-text-905479?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Imagen's Newest Update Lets You Edit By Voice or Text",
+  "snippet": "Most wedding and event photographers lose a surprising amount of time editing the same handful of sliders photo after photo. Each tiny adjustment only takes a second, but across a full gallery, those seconds can add hours to your workflow, even with AI automation applied. Last week, Imagen released a completely new way to blast through your photo edits, and you may not even need to click a slider ",
+  "link": "https://fstoppers.com/artificial-intelligence/imagens-newest-update-lets-edit-voice-or-text-905479?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/imagen-assistant-ai-edit-wedding-with-voice_0.jpg.webp?itok=j93FNp5_",
+  "date": "2026-11-17T17:03:02.000Z",
   "bg": ""
  },
  {
@@ -132,28 +297,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-  "snippet": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-  "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png",
-  "date": "2026-11-17T15:56:04.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Speed camera fault may have allowed drivers to escape fines",
-  "snippet": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-  "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
-  "date": "2026-11-17T15:08:48.000Z",
-  "bg": ""
- },
- {
   "id": "https://petapixel.com/2026/11/17/the-first-known-photograph-of-bogota-sold-for-331600-at-auction/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -173,17 +316,6 @@
   "link": "https://petapixel.com/2026/11/17/xiaomis-eye-catching-pro-series-phones-go-global-for-the-first-time/",
   "image": "https://petapixel.com/assets/uploads/2026/11/Xiaomi-18-Pro-Series-launch-Back-Display-selfie.jpg",
   "date": "2026-11-17T14:30:40.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "How new US chip restrictions on South East Asia will hit China",
-  "snippet": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-  "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-  "date": "2026-11-17T14:25:45.000Z",
   "bg": ""
  },
  {
@@ -220,28 +352,6 @@
   "bg": ""
  },
  {
-  "id": "https://petapixel.com/2026/11/17/shures-new-mv360-mics-promise-to-make-spatial-audio-capture-easier/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "Shure’s New MV360 Mics Promise to Make Spatial Audio Capture Easier",
-  "snippet": "Shure is entering the increasingly crowded spatial audio market with its new MV360 microphones. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/17/shures-new-mv360-mics-promise-to-make-spatial-audio-capture-easier/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/MV360_MV360_Family_Hero_Forest.jpg",
-  "date": "2026-11-17T14:00:39.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/17/the-lumix-shx1-box-style-cinema-camera-is-the-spirit-of-varicam-reborn/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "The Lumix SHX1 Box-Style Cinema Camera Is The Spirit of Varicam Reborn",
-  "snippet": "Panasonic has announced the Lumix SHX1, the first compact cinema camera to bear the Lumix branding. Previously, Panasonic separated its cinema and consumer imaging divisions between the two brands, but the SHX1 is the unification of the two under one roof. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/17/the-lumix-shx1-box-style-cinema-camera-is-the-spirit-of-varicam-reborn/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/The-Lumix-SHX1-Box-Style-Cinema-Camera-Is-The-Spirit-of-Varicam-Reborn.jpg",
-  "date": "2026-11-17T14:00:29.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.printmag.com/what-matters/what-matters-to-colleen-haynes/",
   "topic": "brand",
   "source": "Print Magazine",
@@ -250,28 +360,6 @@
   "link": "https://www.printmag.com/what-matters/what-matters-to-colleen-haynes/",
   "image": "",
   "date": "2026-11-17T14:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://petapixel.com/2026/11/17/new-york-sued-over-law-requiring-social-media-platforms-to-display-warning-labels/",
-  "topic": "photo",
-  "source": "PetaPixel",
-  "title": "New York Sued Over Law Requiring Social Media Platforms to Display Warning Labels",
-  "snippet": "New York has been sued by an internet trade group, which includes YouTube, Facebook and Instagram, over its plans to require social media platforms to put warning labels for users. [ Read More ]",
-  "link": "https://petapixel.com/2026/11/17/new-york-sued-over-law-requiring-social-media-platforms-to-display-warning-labels/",
-  "image": "https://petapixel.com/assets/uploads/2026/11/social-media-law-newyork-warning-addictive.jpg",
-  "date": "2026-11-17T13:50:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Government must act now or lose Royal Mail, former minister warns",
-  "snippet": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-  "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
-  "date": "2026-11-17T12:43:07.000Z",
   "bg": ""
  },
  {
@@ -294,17 +382,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-whats-all-the-commotion/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/OC_BWAMP_BIGPoster_iteration_4-1.gif?resize=1000%2C563&ssl=1",
   "date": "2026-11-17T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "US government confirms investigation into tech firm Megaspeed",
-  "snippet": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-  "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-  "date": "2026-11-17T11:17:32.000Z",
   "bg": ""
  },
  {
@@ -338,17 +415,6 @@
   "link": "https://fstoppers.com/lightroom/lightroom-classic-still-necessary-adobes-latest-update-raises-question-905538?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/danna-0058.jpg.webp?itok=xvL27VIk",
   "date": "2026-11-17T02:25:14.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "We couldn't afford a house alone, so we bought one with strangers",
-  "snippet": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-  "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
-  "date": "2026-11-17T00:00:02.000Z",
   "bg": ""
  },
  {
@@ -407,17 +473,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/historical/soviet-soldiers-took-czech-photographer-josef-koudelka-sniper-he-shot-1968-905556?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Soviet Soldiers Took Czech Photographer Josef Koudelka for a Sniper While He Shot the 1968 Invasion of Prague",
-  "snippet": "Look magazine's issue of September 9, 1969, carried a photo essay on the Warsaw Pact invasion of Czechoslovakia under the title \"A Death to Remember.\" The Overseas Press Club of America gave the work its Robert Capa Gold Medal for 1969, for \"superlative photography requiring exceptional courage and enterprise abroad,\" and its record of the award names the winner only as an \"anonymous Czech photogr",
-  "link": "https://fstoppers.com/historical/soviet-soldiers-took-czech-photographer-josef-koudelka-sniper-he-shot-1968-905556?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/koudelka-prague-1968-invasion-lead.jpg.webp?itok=fxEDLKxN",
-  "date": "2026-11-16T19:03:02.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -437,39 +492,6 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
   "image": "",
   "date": "2026-11-16T18:28:18.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-  "snippet": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-  "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-  "image": "",
-  "date": "2026-11-16T17:14:13.000Z",
-  "bg": ""
- },
- {
-  "id": "https://fstoppers.com/education/inkjet-vs-c-print-why-only-one-true-continuous-tone-905555?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Inkjet vs. C-Print: Why Only One Is True Continuous Tone",
-  "snippet": "That smooth sky gradient on your inkjet print is made of tiny dots in only a handful of ink colors, packed so densely that your eye blends them into something that looks seamless. Knowing whether a print is built from dots or from light shapes how you choose a printer, a lab, and the service that prints your next book or zine. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/inkjet-vs-c-print-why-only-one-true-continuous-tone-905555?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_58.jpg.webp?itok=IN7PsAWK",
-  "date": "2026-11-16T16:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-  "topic": "money",
-  "source": "CNBC Markets",
-  "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-  "snippet": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-  "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-  "image": "",
-  "date": "2026-11-16T12:13:23.000Z",
   "bg": ""
  },
  {
@@ -591,28 +613,6 @@
   "link": "https://www.printmag.com/what-matters/what-matters-to-daniel-fries/",
   "image": "",
   "date": "2026-11-10T14:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-  "topic": "money",
-  "source": "The Economist",
-  "title": "The future of Trumponomics: compromise or failure",
-  "snippet": "How the art of the deal may yet prevail over the art of denial",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-  "image": "",
-  "date": "2026-11-09T19:13:41.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-  "topic": "money",
-  "source": "The Economist",
-  "title": "Markets realise they hate America’s blue wave",
-  "snippet": "Investors worry that Democratic dominance will slow down the AI boom",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-  "image": "",
-  "date": "2026-11-05T23:41:07.000Z",
   "bg": ""
  },
  {
