@@ -1,5 +1,60 @@
 [
  {
+  "id": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Wall Street futures jump after major indexes enter correction territory",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
+  "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+  "date": "2026-11-23T01:31:47.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "COP31 climate talks collapse as EU and others reject deal",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAK0MN_L.jpg",
+  "date": "2026-11-23T01:24:24.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/commodities-news/oil-falls-as-robust-gulf-exports-offset-iran-escalation-supply-glut-risks-5044220",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Oil falls as robust Gulf exports offset Iran escalation, supply glut risks",
+  "snippet": "",
+  "link": "https://www.investing.com/news/commodities-news/oil-falls-as-robust-gulf-exports-offset-iran-escalation-supply-glut-risks-5044220",
+  "image": "https://content-media.investing.com/news/OilTanker_800x533_L_1778185672.jpg",
+  "date": "2026-11-23T01:17:34.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/nexstar-media-evp-gary-weitman-sells-415213-in-common-stock-93CH-5044219",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Nexstar Media EVP Gary Weitman sells $415,213 in common stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/nexstar-media-evp-gary-weitman-sells-415213-in-common-stock-93CH-5044219",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+  "date": "2026-11-23T01:16:32.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Australia shares set to slide at open, NZ falls",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/australia-shares-set-to-slide-at-open-nz-falls-5044213",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+  "date": "2026-11-23T01:12:41.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
   "topic": "money",
   "source": "Investing.com",
@@ -7,18 +62,84 @@
   "snippet": "",
   "link": "https://www.investing.com/news/stock-market-news/delta-flights-faced-brief-delays-atatlanta-airport-over-automated-system-issue-5044102",
   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0HI_L.jpg",
-  "date": "2026-11-22T19:18:20.000Z",
+  "date": "2026-11-23T01:07:12.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/insider-trading-news/gregory-m-shepard-sells-219m-in-atlas-energy-solutions-stock-93CH-5044100",
+  "id": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Energy bills will soar - here's how you can ease the pain",
+  "snippet": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+  "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+  "date": "2026-11-23T01:05:07.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Gregory M. Shepard sells $2.19M in Atlas Energy Solutions stock",
+  "title": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
   "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/gregory-m-shepard-sells-219m-in-atlas-energy-solutions-stock-93CH-5044100",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-  "date": "2026-11-22T19:01:12.000Z",
+  "link": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ0M1_L.jpg",
+  "date": "2026-11-23T01:00:24.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+  "snippet": "",
+  "link": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0LD_L.jpg",
+  "date": "2026-11-23T00:54:24.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+  "snippet": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+  "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+  "date": "2026-11-23T00:33:36.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "What is going on with Poundland?",
+  "snippet": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+  "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+  "date": "2026-11-23T00:22:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+  "snippet": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+  "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+  "date": "2026-11-23T00:08:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+  "topic": "money",
+  "source": "The Economist",
+  "title": "How much more air can come out of the AI trade?",
+  "snippet": "Markets are troubled—for good reason",
+  "link": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+  "image": "",
+  "date": "2026-11-22T19:44:21.000Z",
   "bg": ""
  },
  {
@@ -33,17 +154,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0GI_L.jpg",
-  "date": "2026-11-22T18:18:21.000Z",
-  "bg": ""
- },
- {
   "id": "https://petapixel.com/2026/11/22/layered-compositions-will-level-up-your-landscape-photography/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -55,39 +165,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/analyst-ratings/what-is-oracle-worth-if-you-dont-believe-in-the-ai-data-center-buildout-5044084",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "What is Oracle worth if you don’t believe in the AI data center buildout?",
-  "snippet": "",
-  "link": "https://www.investing.com/news/analyst-ratings/what-is-oracle-worth-if-you-dont-believe-in-the-ai-data-center-buildout-5044084",
-  "image": "https://content-media.investing.com/news/LYNXMPEB2H0Q1_M.jpg",
-  "date": "2026-11-22T17:57:03.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0E2_L.jpg",
-  "date": "2026-11-22T17:54:25.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "COP31 climate talks collapse as EU and others reject deal",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAK0MN_L.jpg",
-  "date": "2026-11-22T17:30:26.000Z",
-  "bg": ""
- },
- {
   "id": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "topic": "photo",
   "source": "Fstoppers",
@@ -96,28 +173,6 @@
   "link": "https://fstoppers.com/artificial-intelligence/copyright-trolls-pushed-me-ai-music-and-its-incredible-905613?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/ai-music-is-better-thumbnail.jpg.webp?itok=Su36ZYtm",
   "date": "2026-11-22T17:03:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Air Products group president sells $142,584 in shares",
-  "snippet": "",
-  "link": "https://www.investing.com/news/insider-trading-news/air-products-group-president-sells-142584-in-shares-93CH-5044071",
-  "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-  "date": "2026-11-22T17:01:11.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.investing.com/news/commodities-news/iowa-detonation-of-lead-will-proceed-under-emergency-powers-army-says-bypassing-court-order-5044061",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order",
-  "snippet": "",
-  "link": "https://www.investing.com/news/commodities-news/iowa-detonation-of-lead-will-proceed-under-emergency-powers-army-says-bypassing-court-order-5044061",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0EX_L.jpg",
-  "date": "2026-11-22T16:42:20.000Z",
   "bg": ""
  },
  {
@@ -184,28 +239,6 @@
   "link": "https://fstoppers.com/education/lightroom-masking-trick-separates-subject-busy-background-905628?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_79.jpg.webp?itok=iKSFCD1Z",
   "date": "2026-11-22T10:03:02.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "MP criticises Guernsey and Jersey company ownership register plans",
-  "snippet": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-  "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
-  "date": "2026-11-22T07:22:05.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-  "snippet": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-  "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-  "date": "2026-11-22T07:12:41.000Z",
   "bg": ""
  },
  {
@@ -319,17 +352,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-  "snippet": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-  "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-  "date": "2026-11-20T22:42:47.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -426,17 +448,6 @@
   "link": "https://www.printmag.com/daily-heller/the-daily-heller-the-game-where-the-loser-is-the-nation/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2024/10/DSC8198-blog_.jpg?resize=1000%2C287&quality=89&ssl=1",
   "date": "2026-11-20T12:00:00.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Should AI be judging our credit worthiness?",
-  "snippet": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-  "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
-  "date": "2026-11-20T07:32:19.000Z",
   "bg": ""
  },
  {
@@ -591,17 +602,6 @@
   "link": "https://www.printmag.com/book-club/print-book-club-recap-francoise-mouly/",
   "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/33_WTBenda_MaskOfFuManchu__1932_100-p.260-1.png?fit=967%2C622&quality=80&ssl=1",
   "date": "2026-11-16T20:54:45.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-  "topic": "money",
-  "source": "The Economist",
-  "title": "America does not produce world-beating statistics. Who does?",
-  "snippet": "We search for the world’s worst—and best—economic data",
-  "link": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
-  "image": "",
-  "date": "2026-11-16T18:28:18.000Z",
   "bg": ""
  },
  {
