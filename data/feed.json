@@ -1,27 +1,5 @@
 [
  {
-  "id": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0FO_L.jpg",
-  "date": "2026-11-26T16:42:52.000Z",
-  "bg": "UniCredit поема Commerzbank и италиански фирми купуват германски бизнеси. Знак за консолидация в европейския банков сектор."
- },
- {
-  "id": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
-  "topic": "money",
-  "source": "Investing.com",
-  "title": "Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
-  "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP19C_L.jpg",
-  "date": "2026-11-26T16:42:23.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
   "topic": "money",
   "source": "Investing.com",
@@ -29,62 +7,183 @@
   "snippet": "",
   "link": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0ZH_L.jpg",
-  "date": "2026-11-26T16:36:33.000Z",
+  "date": "2026-11-27T01:12:39.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
+  "id": "https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Poland stocks higher at close of trade; WIG30 up 1.63%",
+  "title": "Dollar lingers near 22-month peak as AI worries simmer",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
-  "image": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
-  "date": "2026-11-26T16:35:03.000Z",
+  "link": "https://www.investing.com/news/economy-news/dollar-lingers-near-22month-peak-as-ai-worries-simmer-5052803",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ02K_L.jpg",
+  "date": "2026-11-27T01:12:22.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-sierra-madre-silver-misses-q3-eps-as-output-rises-93CH-5052624",
+  "id": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "Investing.com",
-  "title": "Earnings call transcript: Sierra Madre Silver misses Q3 EPS as output rises",
-  "snippet": "",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sierra-madre-silver-misses-q3-eps-as-output-rises-93CH-5052624",
-  "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-  "date": "2026-11-26T16:31:36.000Z",
+  "source": "BBC Business",
+  "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+  "snippet": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+  "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
+  "date": "2026-11-27T00:54:45.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620",
+  "id": "https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706",
   "topic": "money",
   "source": "Investing.com",
-  "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.32%",
+  "title": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620",
-  "image": "https://content-media.investing.com/news/LYNXMPEE7G0MD_M.jpg",
-  "date": "2026-11-26T16:30:04.000Z",
+  "link": "https://www.investing.com/news/commodities-news/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast-5052706",
+  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP1PU_L.jpg",
+  "date": "2026-11-27T00:54:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/blade-resources-closes-first-tranche-of-private-placement-at-030-93CH-5052801",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Blade Resources closes first tranche of private placement at $0.30",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/blade-resources-closes-first-tranche-of-private-placement-at-030-93CH-5052801",
+  "image": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg",
+  "date": "2026-11-27T00:52:40.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/company-news/whitefield-q2-2026-slides-profit-rises-5-buyback-boosts-nta-93CH-5052800",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Whitefield Q2 2026 slides: profit rises 5%, buyback boosts NTA",
+  "snippet": "",
+  "link": "https://www.investing.com/news/company-news/whitefield-q2-2026-slides-profit-rises-5-buyback-boosts-nta-93CH-5052800",
+  "image": "https://content-media.investing.com/news/LYNXMPEM37199_1200_L.jpg",
+  "date": "2026-11-27T00:51:43.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.investing.com/news/insider-trading-news/broadridge-director-maura-markus-sells-556552-in-common-stock-93CH-5052797",
+  "topic": "money",
+  "source": "Investing.com",
+  "title": "Broadridge director Maura Markus sells $556,552 in common stock",
+  "snippet": "",
+  "link": "https://www.investing.com/news/insider-trading-news/broadridge-director-maura-markus-sells-556552-in-common-stock-93CH-5052797",
+  "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+  "date": "2026-11-27T00:46:11.000Z",
   "bg": ""
  },
  {
   "id": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
   "topic": "money",
   "source": "Investing.com",
-  "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
+  "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
   "snippet": "",
   "link": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
   "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-  "date": "2026-11-26T16:25:37.000Z",
+  "date": "2026-11-27T00:42:20.000Z",
   "bg": ""
  },
  {
-  "id": "https://www.investing.com/news/stock-market-news/latam-brasil-says-initial-e195e2-route-sales-running-above-expectations-5052619",
+  "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-whitefield-h1-2026-profit-rises-as-buyback-supports-shares-93CH-5052792",
   "topic": "money",
   "source": "Investing.com",
-  "title": "LATAM Brasil says initial E195-E2 route sales running above expectations",
+  "title": "Earnings call transcript: Whitefield H1 2026 profit rises as buyback supports shares",
   "snippet": "",
-  "link": "https://www.investing.com/news/stock-market-news/latam-brasil-says-initial-e195e2-route-sales-running-above-expectations-5052619",
-  "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP1HE_L.jpg",
-  "date": "2026-11-26T16:25:21.000Z",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-whitefield-h1-2026-profit-rises-as-buyback-supports-shares-93CH-5052792",
+  "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+  "date": "2026-11-27T00:40:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+  "snippet": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+  "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+  "date": "2026-11-27T00:02:19.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "UK to pay 'participation' fee to deliver EU deals",
+  "snippet": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+  "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+  "date": "2026-11-26T23:17:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Asia made a big AI bet on Nvidia. What happens now?",
+  "snippet": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+  "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+  "date": "2026-11-26T23:08:12.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/historical/harry-burton-lit-his-first-photos-king-tuts-tomb-two-electric-lamps-and-905334?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Harry Burton Lit His First Photos of King Tut's Tomb With Two Electric Lamps and Developed Them in an Empty Tomb",
+  "snippet": "A glass-plate photograph from Tutankhamun's tomb shows a plastered wall between two life-size statues of a king, painted black and gilded, each gripping a tall staff. Small printed number cards sit at their feet and on the wall between them, beside a heap of reeds and a basket. Harry Burton, the Metropolitan Museum of Art's expedition photographer, made it in the tomb's Antechamber in February 192",
+  "link": "https://fstoppers.com/historical/harry-burton-lit-his-first-photos-king-tuts-tomb-two-electric-lamps-and-905334?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/harry-burton-king-tut-photos-lead.jpg.webp?itok=OPVhLS7n",
+  "date": "2026-11-26T22:03:02.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+  "topic": "money",
+  "source": "BBC Business",
+  "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+  "snippet": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+  "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+  "date": "2026-11-26T19:55:58.000Z",
+  "bg": "Финансовите лидери по света се тревожат най-вече от Китай и изкуствения интелект."
+ },
+ {
+  "id": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+  "topic": "money",
+  "source": "CNBC Markets",
+  "title": "Semiconductor chips are the new oil. Here's why",
+  "snippet": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+  "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+  "image": "",
+  "date": "2026-11-26T17:52:15.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/gear/every-photographervideographer-needs-optical-snoot-905619?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Every Photographer/Videographer Needs An Optical Snoot",
+  "snippet": "I recently added dark acoustic panels to the wall behind my desk, and now the background is a little too dark, especially the piece of art hanging there. I needed a way to light it up with an interesting shape, and that sent me down the optical snoot rabbit hole. It turns out these used to be very expensive and now they're shockingly cheap. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/gear/every-photographervideographer-needs-optical-snoot-905619?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/every-photographer-needs-this-thumbnail.jpg.webp?itok=-5A8efN1",
+  "date": "2026-11-26T17:03:01.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://fstoppers.com/architecture/hidden-photoshop-settings-speed-real-estate-editing-905674?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "topic": "photo",
+  "source": "Fstoppers",
+  "title": "Hidden Photoshop Settings That Speed Up Real Estate Editing",
+  "snippet": "Real estate editing means working through a full set of similar interiors for every listing, and each stall, crash, or wrong layer selection in Photoshop costs you time across the entire batch. Many of those slowdowns come from default settings that run background processes or push heavy work onto your graphics card, and most of them take a few clicks to change. &nbsp; [ Read More ]",
+  "link": "https://fstoppers.com/architecture/hidden-photoshop-settings-speed-real-estate-editing-905674?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_98.jpg.webp?itok=xVbE0KP6",
+  "date": "2026-11-26T16:03:02.000Z",
   "bg": ""
  },
  {
@@ -96,39 +195,6 @@
   "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
   "image": "",
   "date": "2026-11-26T16:00:01.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "When will Poundland shops close? Five key questions answered",
-  "snippet": "Why is Poundland closing down, and what will happen to staff and suppliers?",
-  "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
-  "date": "2026-11-26T15:55:50.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "New UK-EU treaty has 10-year termination clause",
-  "snippet": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-  "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-  "date": "2026-11-26T15:23:17.000Z",
-  "bg": ""
- },
- {
-  "id": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-  "snippet": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
-  "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
-  "date": "2026-11-26T14:28:22.000Z",
   "bg": ""
  },
  {
@@ -176,14 +242,14 @@
   "bg": ""
  },
  {
-  "id": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+  "id": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
   "topic": "money",
-  "source": "CNBC Markets",
-  "title": "Semiconductor chips are the new oil. Here's why",
-  "snippet": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-  "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-  "image": "",
-  "date": "2026-11-26T13:19:25.000Z",
+  "source": "BBC Business",
+  "title": "New boss appointed to lead Travelodge",
+  "snippet": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+  "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+  "date": "2026-11-26T12:03:49.000Z",
   "bg": ""
  },
  {
@@ -198,14 +264,14 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Drivers over 70 face eye tests every three years under new plans",
-  "snippet": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
-  "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg",
-  "date": "2026-11-26T11:21:45.000Z",
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-the-newly-inflated-career-of-tony-sarge/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: The Newly Inflated Career of Tony Sarg",
+  "snippet": "Long forgotten by many, Sarg’s art and career get a gust of new life in an exhibition at the Norman Rockwell Museum. The post The Daily Heller: The Newly Inflated Career of Tony Sarg appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-the-newly-inflated-career-of-tony-sarge/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2023/06/Grand-Central-1983.57.52b.jpg?resize=901%2C1024&quality=89&ssl=1",
+  "date": "2026-11-26T12:00:00.000Z",
   "bg": ""
  },
  {
@@ -275,17 +341,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Car finance compensation payments explained",
-  "snippet": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-  "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1582/live/8e71e720-a425-11f0-ba96-81d873a15aec.jpg",
-  "date": "2026-11-26T09:39:50.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -308,17 +363,6 @@
   "bg": ""
  },
  {
-  "id": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-  "topic": "money",
-  "source": "BBC Business",
-  "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-  "snippet": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
-  "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
-  "date": "2026-11-26T00:01:37.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
   "topic": "money",
   "source": "The Economist",
@@ -327,6 +371,17 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
   "image": "",
   "date": "2026-11-25T22:33:27.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/design-events-conferences/adobes-eric-snowden-on-how-ai-is-changing-the-way-designers-work/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "Adobe’s Eric Snowden on How AI Is Changing the Way Designers Work",
+  "snippet": "AI was everywhere at Adobe MAX. In a conversation with Adobe’s Eric Snowden, I wanted to get specific about where it could actually help designers and what they’d want to keep doing themselves. The post Adobe’s Eric Snowden on How AI Is Changing the Way Designers Work appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/design-events-conferences/adobes-eric-snowden-on-how-ai-is-changing-the-way-designers-work/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Eric_Snowden_Headshot.jpg?resize=1000%2C667&quality=89&ssl=1",
+  "date": "2026-11-25T22:22:41.000Z",
   "bg": ""
  },
  {
@@ -396,17 +451,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/business/why-your-portfolio-isnt-getting-commercial-work-905663?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Why Your Portfolio Isn't Getting You Commercial Work",
-  "snippet": "A new commercial portfolio usually starts with borrowed ideas: a lighting setup from a tutorial, a look lifted from someone you admire, a composite you watched get built layer by layer. Every test shoot costs you time, money, and favors from stylists and models, and the images that come out of it decide whether an agency or brand ever calls. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/business/why-your-portfolio-isnt-getting-commercial-work-905663?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_94.jpg.webp?itok=WyHGG3kQ",
-  "date": "2026-11-25T16:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://petapixel.com/2026/11/25/hollywood-and-analog-photography-power-kodaks-fifth-consecutive-quarter-of-growth/",
   "topic": "photo",
   "source": "PetaPixel",
@@ -440,17 +484,6 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/education/5-things-know-shoot-your-first-wedding-veteran-900-905662?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "5 Things to Know Before You Shoot Your First Wedding, From a Veteran of 900",
-  "snippet": "A first wedding, whether it's a paid booking or a favor for a friend, leaves you responsible for photographs nobody gets to retake. Most of what goes wrong happens away from the camera: a missed family group, a tradition nobody mentioned, a speech that started while you were in the hallway. &nbsp; [ Read More ]",
-  "link": "https://fstoppers.com/education/5-things-know-shoot-your-first-wedding-veteran-900-905662?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_93.jpg.webp?itok=gITfGMWf",
-  "date": "2026-11-25T14:03:01.000Z",
-  "bg": ""
- },
- {
   "id": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
   "topic": "money",
   "source": "CNBC Markets",
@@ -462,14 +495,14 @@
   "bg": ""
  },
  {
-  "id": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "topic": "photo",
-  "source": "Fstoppers",
-  "title": "Sony 400-800mm vs. 200-600mm: A Wildlife Videographer's Verdict",
-  "snippet": "Sony's 400-800mm zoom puts 800mm of reach on a full frame body for $2,698, but its f/8 maximum aperture at the long end and a 400mm starting point make it a narrower tool than the familiar 200-600mm. If you film birds and small animals that never let you get close, the question is whether that extra 200mm on the long end is worth the shake, the haze, and the extra kit that comes with it. &nbsp; [ ",
-  "link": "https://fstoppers.com/gear/sony-400-800mm-vs-200-600mm-wildlife-videographers-verdict-905661?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-  "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_92.jpg.webp?itok=wi-ZMQHP",
-  "date": "2026-11-25T12:03:01.000Z",
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-my-ll-world-and-welcome-to-it/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Shelf Lives",
+  "snippet": "Enter Steven Heller's miniature world. The post The Daily Heller: Shelf Lives appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-my-ll-world-and-welcome-to-it/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/IMG_0452.jpeg?resize=1000%2C750&quality=89&ssl=1",
+  "date": "2026-11-25T12:00:00.000Z",
   "bg": ""
  },
  {
@@ -506,6 +539,39 @@
   "bg": ""
  },
  {
+  "id": "https://www.printmag.com/book-club/a-master-of-graphic-invention-a-conversation-with-seymour-chwast/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "A Master of Graphic Invention: A Conversation with Seymour Chwast",
+  "snippet": "Join PRINT for a conversation that celebrates not simply a career, but a way of seeing. Chwast’s work is more than a record of graphic design history. It is a testament to the power of an individual visual language—one shaped by curiosity, humor, experimentation, and an enduring willingness to question convention. The post A Master of Graphic Invention: A Conversation with Seymour Chwast appeared ",
+  "link": "https://www.printmag.com/book-club/a-master-of-graphic-invention-a-conversation-with-seymour-chwast/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Purchase-Button.png?resize=1000%2C721&quality=80&ssl=1",
+  "date": "2026-11-24T15:00:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/what-matters/what-matters-to-steven-denekas/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "What Matters to Steven Denekas",
+  "snippet": "Self-taught designer and Head of Design at Sibera studio Steven Denekas discusses dedication to design, living with heartbreak, and connecting with past lives in this week's What Matters. The post What Matters to Steven Denekas appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/what-matters/what-matters-to-steven-denekas/",
+  "image": "",
+  "date": "2026-11-24T14:00:00.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-a-birdseye-view-of-a-divided-world/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: A Birds-eye View of a Divided World",
+  "snippet": "An eagle, a dove, and the world today. The post The Daily Heller: A Birds-eye View of a Divided World appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-a-birdseye-view-of-a-divided-world/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/IMG_05932.jpeg?resize=822%2C1024&quality=89&ssl=1",
+  "date": "2026-11-24T12:00:00.000Z",
+  "bg": ""
+ },
+ {
   "id": "https://digital-photography-school.com/obsbot-tail-air-2-advances-professional-video-production-with-1-inch-4k-imaging-announced/",
   "topic": "photo",
   "source": "Digital Photography School",
@@ -514,6 +580,17 @@
   "link": "https://digital-photography-school.com/obsbot-tail-air-2-advances-professional-video-production-with-1-inch-4k-imaging-announced/",
   "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2026/11/DSC08200-scaled.jpg?resize=2560%2C1708&ssl=1",
   "date": "2026-11-24T03:17:05.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-extruded-thermoplastic-reflectorized-pavement-markings/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: Extruded Thermoplastic Reflectorized Pavement Markings",
+  "snippet": "Who is responsible for street typography in New York City? The post The Daily Heller: Extruded Thermoplastic Reflectorized Pavement Markings appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-extruded-thermoplastic-reflectorized-pavement-markings/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/IMG_4554.jpeg?resize=1000%2C750&quality=89&ssl=1",
+  "date": "2026-11-23T12:00:00.000Z",
   "bg": ""
  },
  {
@@ -536,6 +613,17 @@
   "link": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
   "image": "",
   "date": "2026-11-22T11:13:42.000Z",
+  "bg": ""
+ },
+ {
+  "id": "https://www.printmag.com/daily-heller/the-daily-heller-the-game-where-the-loser-is-the-nation/",
+  "topic": "brand",
+  "source": "Print Magazine",
+  "title": "The Daily Heller: The Board Game Where the Whole World is the Loser",
+  "snippet": "Secret Hitler is just a game. (Right?) The post The Daily Heller: The Board Game Where the Whole World is the Loser appeared first on PRINT Magazine .",
+  "link": "https://www.printmag.com/daily-heller/the-daily-heller-the-game-where-the-loser-is-the-nation/",
+  "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2024/10/DSC8198-blog_.jpg?resize=1000%2C287&quality=89&ssl=1",
+  "date": "2026-11-20T12:00:00.000Z",
   "bg": ""
  },
  {
